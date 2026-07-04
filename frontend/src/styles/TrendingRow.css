@@ -1,0 +1,87 @@
+.trending-section {
+  padding: 40px 70px;
+}
+
+.trending-section h2 {
+  color: white;
+  margin-bottom: 25px;
+}
+
+.trending-row {
+  display: flex;
+
+  gap: 20px;
+
+  overflow-x: auto;
+
+  scrollbar-width: none;
+}
+
+.trending-row::-webkit-scrollbar {
+  display: none;
+}
+
+.trending-card {
+  min-width: 220px;
+
+  cursor: pointer;
+
+  transition: 0.3s;
+}
+
+.trending-card:hover {
+  transform: scale(1.08);
+}
+
+.trending-poster {
+  width: 220px;
+
+  height: 320px;
+
+  object-fit: cover;
+
+  border-radius: 18px;
+
+  display: block;
+}
+
+.trending-poster-placeholder {
+  width: 220px;
+
+  height: 320px;
+
+  border-radius: 18px;
+
+  background:
+    linear-gradient(
+      135deg,
+      #E50914,
+      #7f1d1d
+    );
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  font-size: 4rem;
+}
+
+.trending-info {
+  margin-top: 10px;
+}
+
+.trending-title {
+  color: white;
+
+  font-weight: bold;
+
+  margin-bottom: 4px;
+}
+
+.trending-rating {
+  color: #d1d5db;
+
+  font-size: 0.95rem;
+}

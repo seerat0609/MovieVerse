@@ -1,0 +1,4025 @@
+{
+    "Toy Story": {
+        "title": "Toy Story 5",
+        "rating": 7.43,
+        "release_date": "2026-06-17",
+        "poster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
+        "genres": [
+            "Animation",
+            "Family",
+            "Comedy"
+        ],
+        "cast": [
+            {
+                "name": "Tom Hanks",
+                "image": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+            },
+            {
+                "name": "Tim Allen",
+                "image": "https://image.tmdb.org/t/p/w185/woWhZzFILVhYMAvsPL171HjMY0y.jpg"
+            },
+            {
+                "name": "Joan Cusack",
+                "image": "https://image.tmdb.org/t/p/w185/59UIeHZFYrKyP20lXqijtfTXglO.jpg"
+            },
+            {
+                "name": "Greta Lee",
+                "image": "https://image.tmdb.org/t/p/w185/6SydTis4XUcovlwIGskT59JowLX.jpg"
+            },
+            {
+                "name": "Conan O'Brien",
+                "image": "https://image.tmdb.org/t/p/w185/deRbViPut0t80miscBpP2DhBJU5.jpg"
+            }
+        ],
+        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+        "runtime": "N/A",
+        "vote_count": 427
+    },
+    "Interstellar": {
+        "title": "Interstellar",
+        "rating": 8.48,
+        "release_date": "2014-11-05",
+        "poster": "https://image.tmdb.org/t/p/w500/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/2ssWTSVklAEc98frZUQhgtGHx7s.jpg",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "cast": [
+            {
+                "name": "Matthew McConaughey",
+                "image": "https://image.tmdb.org/t/p/w185/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
+            },
+            {
+                "name": "Anne Hathaway",
+                "image": "https://image.tmdb.org/t/p/w185/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg"
+            },
+            {
+                "name": "Michael Caine",
+                "image": "https://image.tmdb.org/t/p/w185/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+            },
+            {
+                "name": "Jessica Chastain",
+                "image": "https://image.tmdb.org/t/p/w185/eQKnihReJeB9vQEa5gySzAlKfZt.jpg"
+            },
+            {
+                "name": "Casey Affleck",
+                "image": "https://image.tmdb.org/t/p/w185/304ilSygaCRWykoBWAL67TOw8g9.jpg"
+            }
+        ],
+        "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+        "runtime": "N/A",
+        "vote_count": 40169
+    },
+    "Avengers": {
+        "title": "The Avengers",
+        "rating": 8.051,
+        "release_date": "2012-04-25",
+        "poster": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+        "genres": [
+            "Sci-Fi",
+            "Action",
+            "Adventure"
+        ],
+        "cast": [
+            {
+                "name": "Robert Downey Jr.",
+                "image": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+            },
+            {
+                "name": "Chris Evans",
+                "image": "https://image.tmdb.org/t/p/w185/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+            },
+            {
+                "name": "Mark Ruffalo",
+                "image": "https://image.tmdb.org/t/p/w185/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+            },
+            {
+                "name": "Chris Hemsworth",
+                "image": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+            },
+            {
+                "name": "Scarlett Johansson",
+                "image": "https://image.tmdb.org/t/p/w185/druW5adKddizHNSoPbI0q7Mvn0K.jpg"
+            }
+        ],
+        "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+        "runtime": "N/A",
+        "vote_count": 38590
+    },
+    "Inception": {
+        "title": "Inception",
+        "rating": 8.372,
+        "release_date": "2010-07-15",
+        "poster": "https://image.tmdb.org/t/p/w500/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+        "genres": [
+            "Action",
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "cast": [
+            {
+                "name": "Leonardo DiCaprio",
+                "image": "https://image.tmdb.org/t/p/w185/mkdRcVIQl4WZhDf1vXKWTD7HZrZ.jpg"
+            },
+            {
+                "name": "Joseph Gordon-Levitt",
+                "image": "https://image.tmdb.org/t/p/w185/z2FA8js799xqtfiFjBTicFYdfk.jpg"
+            },
+            {
+                "name": "Ken Watanabe",
+                "image": "https://image.tmdb.org/t/p/w185/psAXOYp9SBOXvg6AXzARDedNQ9P.jpg"
+            },
+            {
+                "name": "Tom Hardy",
+                "image": "https://image.tmdb.org/t/p/w185/d81K0RH8UX7tZj49tZaQhZ9ewH.jpg"
+            },
+            {
+                "name": "Elliot Page",
+                "image": "https://image.tmdb.org/t/p/w185/nXO8DE4biVXY4UDYP0NdIY1zvXS.jpg"
+            }
+        ],
+        "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+        "runtime": "N/A",
+        "vote_count": 39457
+    },
+    "Batman": {
+        "title": "The Batman",
+        "rating": 7.7,
+        "release_date": "2022-03-01",
+        "poster": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/IYUD7rAIXzBM91TT3Z5fILUS7n.jpg",
+        "genres": [
+            "Crime",
+            "Mystery",
+            "Thriller"
+        ],
+        "cast": [
+            {
+                "name": "Robert Pattinson",
+                "image": "https://image.tmdb.org/t/p/w185/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+            },
+            {
+                "name": "Zoë Kravitz",
+                "image": "https://image.tmdb.org/t/p/w185/n0mhAgmY6eJQmA7kaugsTZEJgHo.jpg"
+            },
+            {
+                "name": "Jeffrey Wright",
+                "image": "https://image.tmdb.org/t/p/w185/quunS3w4QtALMDnvA0y81Y2pO9N.jpg"
+            },
+            {
+                "name": "Colin Farrell",
+                "image": "https://image.tmdb.org/t/p/w185/5FdalJbrbZ5UCsED5rFrXpvbqJa.jpg"
+            },
+            {
+                "name": "Paul Dano",
+                "image": "https://image.tmdb.org/t/p/w185/gOD5bO0hKnzzJm7sJeGeEJjfBBw.jpg"
+            }
+        ],
+        "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+        "runtime": "N/A",
+        "vote_count": 12073
+    },
+    "Avengers: Age of Ultron": {
+        "title": "Avengers: Age of Ultron",
+        "rating": 7.274,
+        "release_date": "2015-04-22",
+        "poster": "https://image.tmdb.org/t/p/w500/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "cast": [
+            {
+                "name": "Robert Downey Jr.",
+                "image": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+            },
+            {
+                "name": "Chris Hemsworth",
+                "image": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+            },
+            {
+                "name": "Mark Ruffalo",
+                "image": "https://image.tmdb.org/t/p/w185/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+            },
+            {
+                "name": "Chris Evans",
+                "image": "https://image.tmdb.org/t/p/w185/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+            },
+            {
+                "name": "Scarlett Johansson",
+                "image": "https://image.tmdb.org/t/p/w185/druW5adKddizHNSoPbI0q7Mvn0K.jpg"
+            }
+        ],
+        "overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+        "runtime": "N/A",
+        "vote_count": 24550,
+        "similarity_score": 43
+    },
+    "Captain America: Civil War": {
+        "title": "Captain America: Civil War",
+        "rating": 7.4,
+        "release_date": "2016-04-27",
+        "poster": "https://image.tmdb.org/t/p/w500/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/wdwcOBMkt3zmPQuEMxB3FUtMio2.jpg",
+        "genres": [
+            "Adventure",
+            "Action",
+            "Sci-Fi"
+        ],
+        "cast": [
+            {
+                "name": "Chris Evans",
+                "image": "https://image.tmdb.org/t/p/w185/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+            },
+            {
+                "name": "Robert Downey Jr.",
+                "image": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+            },
+            {
+                "name": "Scarlett Johansson",
+                "image": "https://image.tmdb.org/t/p/w185/druW5adKddizHNSoPbI0q7Mvn0K.jpg"
+            },
+            {
+                "name": "Sebastian Stan",
+                "image": "https://image.tmdb.org/t/p/w185/nKZgixTbHFXpkzzIpMFdLX98GYh.jpg"
+            },
+            {
+                "name": "Anthony Mackie",
+                "image": "https://image.tmdb.org/t/p/w185/eZSIDrtTzhvabyjrmIITQLsjx8h.jpg"
+            }
+        ],
+        "overview": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+        "runtime": "N/A",
+        "vote_count": 24121,
+        "similarity_score": 49
+    },
+    "Iron Man 3": {
+        "title": "Iron Man 3",
+        "rating": 6.933,
+        "release_date": "2013-04-18",
+        "poster": "https://image.tmdb.org/t/p/w500/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/iVped1djsF0tvGkvnHbzsE3ZPTF.jpg",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "cast": [
+            {
+                "name": "Robert Downey Jr.",
+                "image": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+            },
+            {
+                "name": "Gwyneth Paltrow",
+                "image": "https://image.tmdb.org/t/p/w185/r4wbWWEEjmtRFZ0GU10XbLTgp47.jpg"
+            },
+            {
+                "name": "Don Cheadle",
+                "image": "https://image.tmdb.org/t/p/w185/umhTmcVF26qZKEpSfG1ZNpcbs9D.jpg"
+            },
+            {
+                "name": "Guy Pearce",
+                "image": "https://image.tmdb.org/t/p/w185/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg"
+            },
+            {
+                "name": "Rebecca Hall",
+                "image": "https://image.tmdb.org/t/p/w185/coC58ANiDbqRIyle5zEl9QDektf.jpg"
+            }
+        ],
+        "overview": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+        "runtime": "N/A",
+        "vote_count": 23511,
+        "similarity_score": 49
+    },
+    "X-Men: Apocalypse": {
+        "title": "X-Men: Apocalypse",
+        "rating": 6.526,
+        "release_date": "2016-05-18",
+        "poster": "https://image.tmdb.org/t/p/w500/2mtQwJKVKQrZgTz49Dizb25eOQQ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/sTQNRqLbfCXolrb5CizAW1dj528.jpg",
+        "genres": [
+            "Sci-Fi",
+            "Fantasy",
+            "Action"
+        ],
+        "cast": [
+            {
+                "name": "James McAvoy",
+                "image": "https://image.tmdb.org/t/p/w185/u4REKbm3zhFI2J5tVyqRovGRYUJ.jpg"
+            },
+            {
+                "name": "Michael Fassbender",
+                "image": "https://image.tmdb.org/t/p/w185/xvbnUiB2ZBR3QIt595OzNy657Vw.jpg"
+            },
+            {
+                "name": "Jennifer Lawrence",
+                "image": "https://image.tmdb.org/t/p/w185/mDKMsjOMytyBiy7MHNZTa7gp7wj.jpg"
+            },
+            {
+                "name": "Nicholas Hoult",
+                "image": "https://image.tmdb.org/t/p/w185/pXm8GWTm9eIA8pUGOjvmYjlxamu.jpg"
+            },
+            {
+                "name": "Oscar Isaac",
+                "image": "https://image.tmdb.org/t/p/w185/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg"
+            }
+        ],
+        "overview": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.",
+        "runtime": "N/A",
+        "vote_count": 13834,
+        "similarity_score": 38
+    },
+    "Iron Man": {
+        "title": "Iron Man",
+        "rating": 7.662,
+        "release_date": "2008-04-30",
+        "poster": "https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/cyecB7godJ6kNHGONFjUyVN9OX5.jpg",
+        "genres": [
+            "Action",
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "cast": [
+            {
+                "name": "Robert Downey Jr.",
+                "image": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+            },
+            {
+                "name": "Terrence Howard",
+                "image": "https://image.tmdb.org/t/p/w185/wXWt2NSY23v7DHe2yZQ1C8TikBp.jpg"
+            },
+            {
+                "name": "Jeff Bridges",
+                "image": "https://image.tmdb.org/t/p/w185/xms1RAY6q7Lzp7wNeRCB0kzhucn.jpg"
+            },
+            {
+                "name": "Gwyneth Paltrow",
+                "image": "https://image.tmdb.org/t/p/w185/r4wbWWEEjmtRFZ0GU10XbLTgp47.jpg"
+            },
+            {
+                "name": "Leslie Bibb",
+                "image": "https://image.tmdb.org/t/p/w185/g3a1O9lOTZvrwQupUtg4Fc3CdTd.jpg"
+            }
+        ],
+        "overview": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+        "runtime": "N/A",
+        "vote_count": 28259,
+        "similarity_score": 39
+    },
+    "Iron Man 2": {
+        "title": "Iron Man 2",
+        "rating": 6.855,
+        "release_date": "2010-04-28",
+        "poster": "https://image.tmdb.org/t/p/w500/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg",
+        "genres": [
+            "Adventure",
+            "Action",
+            "Sci-Fi"
+        ],
+        "cast": [
+            {
+                "name": "Robert Downey Jr.",
+                "image": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+            },
+            {
+                "name": "Gwyneth Paltrow",
+                "image": "https://image.tmdb.org/t/p/w185/r4wbWWEEjmtRFZ0GU10XbLTgp47.jpg"
+            },
+            {
+                "name": "Don Cheadle",
+                "image": "https://image.tmdb.org/t/p/w185/umhTmcVF26qZKEpSfG1ZNpcbs9D.jpg"
+            },
+            {
+                "name": "Scarlett Johansson",
+                "image": "https://image.tmdb.org/t/p/w185/druW5adKddizHNSoPbI0q7Mvn0K.jpg"
+            },
+            {
+                "name": "Sam Rockwell",
+                "image": "https://image.tmdb.org/t/p/w185/afYhNpLwpa65Yy0Q0g00FNFhzx5.jpg"
+            }
+        ],
+        "overview": "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances – and confront powerful enemies.",
+        "runtime": "N/A",
+        "vote_count": 22484,
+        "similarity_score": 36
+    },
+    "X-Men": {
+        "title": "X-Men: Apocalypse",
+        "rating": 6.526,
+        "release_date": "2016-05-18",
+        "poster": "https://image.tmdb.org/t/p/w500/2mtQwJKVKQrZgTz49Dizb25eOQQ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/sTQNRqLbfCXolrb5CizAW1dj528.jpg",
+        "genres": [
+            "Sci-Fi",
+            "Fantasy",
+            "Action"
+        ],
+        "cast": [
+            {
+                "name": "James McAvoy",
+                "image": "https://image.tmdb.org/t/p/w185/u4REKbm3zhFI2J5tVyqRovGRYUJ.jpg"
+            },
+            {
+                "name": "Michael Fassbender",
+                "image": "https://image.tmdb.org/t/p/w185/xvbnUiB2ZBR3QIt595OzNy657Vw.jpg"
+            },
+            {
+                "name": "Jennifer Lawrence",
+                "image": "https://image.tmdb.org/t/p/w185/mDKMsjOMytyBiy7MHNZTa7gp7wj.jpg"
+            },
+            {
+                "name": "Nicholas Hoult",
+                "image": "https://image.tmdb.org/t/p/w185/pXm8GWTm9eIA8pUGOjvmYjlxamu.jpg"
+            },
+            {
+                "name": "Oscar Isaac",
+                "image": "https://image.tmdb.org/t/p/w185/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg"
+            }
+        ],
+        "overview": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.",
+        "runtime": "N/A",
+        "vote_count": 13834,
+        "similarity_score": 34
+    },
+    "Ant-Man": {
+        "title": "Ant-Man",
+        "rating": 7.066,
+        "release_date": "2015-07-14",
+        "poster": "https://image.tmdb.org/t/p/w500/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
+        "genres": [
+            "Sci-Fi",
+            "Adventure",
+            "Action"
+        ],
+        "cast": [
+            {
+                "name": "Paul Rudd",
+                "image": "https://image.tmdb.org/t/p/w185/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+            },
+            {
+                "name": "Michael Douglas",
+                "image": "https://image.tmdb.org/t/p/w185/kVYGPIZowzXLEQfAGUNOqKjAbBb.jpg"
+            },
+            {
+                "name": "Evangeline Lilly",
+                "image": "https://image.tmdb.org/t/p/w185/zgztLIWTJZm3vjGU7ezhF8GXESJ.jpg"
+            },
+            {
+                "name": "Corey Stoll",
+                "image": "https://image.tmdb.org/t/p/w185/a5wxOBGmXVwcEqWvEizFk06SDSj.jpg"
+            },
+            {
+                "name": "Bobby Cannavale",
+                "image": "https://image.tmdb.org/t/p/w185/wlp20ggyNI7x0xGUtTjC2Xl2XmD.jpg"
+            }
+        ],
+        "overview": "Armed with the astonishing ability to shrink in scale but increase in strength, master thief Scott Lang must embrace his inner-hero and help his mentor, Doctor Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats. Against seemingly insurmountable obstacles, Pym and Lang must plan and pull off a heist that will save the world.",
+        "runtime": "N/A",
+        "vote_count": 20933,
+        "similarity_score": 34
+    },
+    "Thor: The Dark World": {
+        "title": "Thor: The Dark World",
+        "rating": 6.512,
+        "release_date": "2013-10-30",
+        "poster": "https://image.tmdb.org/t/p/w500/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/5QEOy0QEpad9QsXeMxuGHPXMale.jpg",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "cast": [
+            {
+                "name": "Chris Hemsworth",
+                "image": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+            },
+            {
+                "name": "Natalie Portman",
+                "image": "https://image.tmdb.org/t/p/w185/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
+            },
+            {
+                "name": "Tom Hiddleston",
+                "image": "https://image.tmdb.org/t/p/w185/mclHxMm8aPlCPKptP67257F5GPo.jpg"
+            },
+            {
+                "name": "Christopher Eccleston",
+                "image": "https://image.tmdb.org/t/p/w185/v6ezjezzDo6xP2wlONO5ZzBciwl.jpg"
+            },
+            {
+                "name": "Anthony Hopkins",
+                "image": "https://image.tmdb.org/t/p/w185/dYVQTK1dPrQl1mugeLEWSSmA6Im.jpg"
+            }
+        ],
+        "overview": "Thor fights to restore order across the cosmos… but an ancient race led by the vengeful Malekith returns to plunge the universe back into darkness. Faced with an enemy that even Odin and Asgard cannot withstand, Thor must embark on his most perilous and personal journey yet, one that will reunite him with Jane Foster and force him to sacrifice everything to save us all.",
+        "runtime": "N/A",
+        "vote_count": 18397,
+        "similarity_score": 33
+    },
+    "Captain America: The First Avenger": {
+        "title": "Captain America: The First Avenger",
+        "rating": 7.008,
+        "release_date": "2011-07-22",
+        "poster": "https://image.tmdb.org/t/p/w500/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/yFuKvT4Vm3sKHdFY4eG6I4ldAnn.jpg",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "cast": [
+            {
+                "name": "Chris Evans",
+                "image": "https://image.tmdb.org/t/p/w185/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+            },
+            {
+                "name": "Hayley Atwell",
+                "image": "https://image.tmdb.org/t/p/w185/x57wXHexIjD2ywly9cRA4rov7cu.jpg"
+            },
+            {
+                "name": "Sebastian Stan",
+                "image": "https://image.tmdb.org/t/p/w185/nKZgixTbHFXpkzzIpMFdLX98GYh.jpg"
+            },
+            {
+                "name": "Tommy Lee Jones",
+                "image": "https://image.tmdb.org/t/p/w185/mCiZNRAzbnPojJEZwVZWLw9kzxR.jpg"
+            },
+            {
+                "name": "Hugo Weaving",
+                "image": "https://image.tmdb.org/t/p/w185/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
+            }
+        ],
+        "overview": "During World War II, Steve Rogers is a sickly man from Brooklyn who's transformed into super-soldier Captain America to aid in the war effort. Rogers must stop the Red Skull – Adolf Hitler's ruthless head of weaponry, and the leader of an organization that intends to use a mysterious device of untold powers for world domination.",
+        "runtime": "N/A",
+        "vote_count": 22818,
+        "similarity_score": 44
+    },
+    "Man of Steel": {
+        "title": "Man of Steel",
+        "rating": 6.651,
+        "release_date": "2013-06-12",
+        "poster": "https://image.tmdb.org/t/p/w500/8GFtkImmK0K1VaUChR0n9O61CFU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/j2MlEEpA3wgwQiJB6p1UHC50oiw.jpg",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "cast": [
+            {
+                "name": "Henry Cavill",
+                "image": "https://image.tmdb.org/t/p/w185/kN3A5oLgtKYAxa9lAkpsIGYKYVo.jpg"
+            },
+            {
+                "name": "Amy Adams",
+                "image": "https://image.tmdb.org/t/p/w185/lub0nBRhsCu2pByvfvxt5DcW86d.jpg"
+            },
+            {
+                "name": "Michael Shannon",
+                "image": "https://image.tmdb.org/t/p/w185/6mMczfjM8CiS1WuBOgo5Xom1TcR.jpg"
+            },
+            {
+                "name": "Diane Lane",
+                "image": "https://image.tmdb.org/t/p/w185/6OfP3vFMuCL51zamFKgb8aS74hs.jpg"
+            },
+            {
+                "name": "Russell Crowe",
+                "image": "https://image.tmdb.org/t/p/w185/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
+            }
+        ],
+        "overview": "A young boy learns that he has extraordinary powers and is not of this earth. As a young man, he journeys to discover where he came from and what he was sent here to do. But the hero in him must emerge if he is to save the world from annihilation and become the symbol of hope for all mankind.",
+        "runtime": "N/A",
+        "vote_count": 16289,
+        "similarity_score": 45
+    },
+    "Suicide Squad": {
+        "title": "The Suicide Squad",
+        "rating": 7.459,
+        "release_date": "2021-07-28",
+        "poster": "https://image.tmdb.org/t/p/w500/q61qEyssk2ku3okWICKArlAdhBn.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/rAgsOIhqRS6tUthmHoqnqh9PIAE.jpg",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Adventure"
+        ],
+        "cast": [],
+        "overview": "Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
+        "runtime": "N/A",
+        "vote_count": 9652,
+        "similarity_score": 34
+    },
+    "Batman Begins": {
+        "title": "Batman Begins",
+        "rating": 7.728,
+        "release_date": "2005-06-10",
+        "poster": "https://image.tmdb.org/t/p/w500/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/9IIBboV7MCT0bTxzXHmWK1Hq558.jpg",
+        "genres": [
+            "Drama",
+            "Crime",
+            "Action"
+        ],
+        "cast": [],
+        "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+        "runtime": "N/A",
+        "vote_count": 22720,
+        "similarity_score": 34
+    },
+    "Superman": {
+        "title": "Superman",
+        "rating": 7.338,
+        "release_date": "2025-07-09",
+        "poster": "https://image.tmdb.org/t/p/w500/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/eGX66zonvc4bXg3rM08RUxdYSDx.jpg",
+        "genres": [
+            "Sci-Fi",
+            "Adventure",
+            "Action"
+        ],
+        "cast": [
+            {
+                "name": "David Corenswet",
+                "image": "https://image.tmdb.org/t/p/w185/yoQxpUPt3le9zY4Sab3g2ANy4CE.jpg"
+            },
+            {
+                "name": "Rachel Brosnahan",
+                "image": "https://image.tmdb.org/t/p/w185/piB7t3ykZaylYTRoyK46FknyF2p.jpg"
+            },
+            {
+                "name": "Nicholas Hoult",
+                "image": "https://image.tmdb.org/t/p/w185/pXm8GWTm9eIA8pUGOjvmYjlxamu.jpg"
+            },
+            {
+                "name": "Edi Gathegi",
+                "image": "https://image.tmdb.org/t/p/w185/dt8yMyycDlzxkjhmuuJJ4tXDbp4.jpg"
+            },
+            {
+                "name": "Nathan Fillion",
+                "image": "https://image.tmdb.org/t/p/w185/aW6vCxkUZtwb6iH2Wf88Uq0XNVv.jpg"
+            }
+        ],
+        "overview": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
+        "runtime": "N/A",
+        "vote_count": 4981,
+        "similarity_score": 33
+    },
+    "Superman III": {
+        "title": "Superman III",
+        "rating": 5.515,
+        "release_date": "1983-06-17",
+        "poster": "https://image.tmdb.org/t/p/w500/c4oR6qgZW2s5foGkQi2Dd86KuAS.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/ui3oiC5mdwxTPZSLBvqoBqckTQ4.jpg",
+        "genres": [
+            "Comedy",
+            "Sci-Fi",
+            "Action"
+        ],
+        "cast": [
+            {
+                "name": "Christopher Reeve",
+                "image": "https://image.tmdb.org/t/p/w185/vAGrPf3ajy6OVE3FhgABynZfybP.jpg"
+            },
+            {
+                "name": "Richard Pryor",
+                "image": "https://image.tmdb.org/t/p/w185/5hLh0btIkqYPbDmJ0i4WZo9OAt2.jpg"
+            },
+            {
+                "name": "Annette O'Toole",
+                "image": "https://image.tmdb.org/t/p/w185/mCTEEzuNXlCdyl9uM4ot688IfVz.jpg"
+            },
+            {
+                "name": "Robert Vaughn",
+                "image": "https://image.tmdb.org/t/p/w185/mYaQ9Qv2oC014lwMaXb76A5UL1n.jpg"
+            },
+            {
+                "name": "Annie Ross",
+                "image": "https://image.tmdb.org/t/p/w185/y2rMACd935o8jieNxoOqxpDxhb1.jpg"
+            }
+        ],
+        "overview": "Aiming to defeat the Man of Steel, wealthy executive Ross Webster hires bumbling but brilliant Gus Gorman to develop synthetic kryptonite, which yields some unexpected psychological effects. Between rekindling romance with his high school sweetheart and saving himself, Superman must contend with a powerful supercomputer.",
+        "runtime": "N/A",
+        "vote_count": 1898,
+        "similarity_score": 33
+    },
+    "Watchmen": {
+        "title": "Watchmen",
+        "rating": 7.356,
+        "release_date": "2009-03-04",
+        "poster": "https://image.tmdb.org/t/p/w500/aVURelN3pM56lFM7Dgfs5TixcIf.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/dH7ia3vtkYCa3CBvDnvVjqm9uiQ.jpg",
+        "genres": [
+            "Mystery",
+            "Action",
+            "Sci-Fi"
+        ],
+        "cast": [
+            {
+                "name": "Malin Åkerman",
+                "image": "https://image.tmdb.org/t/p/w185/u38qRcCAiO3SZdFKJKx3fncDyef.jpg"
+            },
+            {
+                "name": "Patrick Wilson",
+                "image": "https://image.tmdb.org/t/p/w185/oym6H2QD9esk4yABjCHaUoNAOa8.jpg"
+            },
+            {
+                "name": "Billy Crudup",
+                "image": "https://image.tmdb.org/t/p/w185/4kHvUUVFMW8GJTHJtoAiskqhcyO.jpg"
+            },
+            {
+                "name": "Matthew Goode",
+                "image": "https://image.tmdb.org/t/p/w185/3XaKKl0bKswTWbJ0Lh9nZ4UdAQo.jpg"
+            },
+            {
+                "name": "Jackie Earle Haley",
+                "image": "https://image.tmdb.org/t/p/w185/xDPeiyklN8f9Ilowsti4lGVbioj.jpg"
+            }
+        ],
+        "overview": "In a gritty and alternate 1985, the glory days of costumed vigilantes have been brought to a close by a government crackdown. But after one of the masked veterans is brutally murdered, an investigation into the killer is initiated. The reunited heroes set out to prevent their own destruction, but in doing so they uncover a sinister plot that puts all of humanity in grave danger.",
+        "runtime": "N/A",
+        "vote_count": 10057,
+        "similarity_score": 32
+    },
+    "Thor": {
+        "title": "Thor",
+        "rating": 6.772,
+        "release_date": "2011-04-21",
+        "poster": "https://image.tmdb.org/t/p/w500/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/jWAJlgICJbn2kyohrokteRoD3cZ.jpg",
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Action"
+        ],
+        "cast": [
+            {
+                "name": "Chris Hemsworth",
+                "image": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+            },
+            {
+                "name": "Natalie Portman",
+                "image": "https://image.tmdb.org/t/p/w185/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
+            },
+            {
+                "name": "Tom Hiddleston",
+                "image": "https://image.tmdb.org/t/p/w185/mclHxMm8aPlCPKptP67257F5GPo.jpg"
+            },
+            {
+                "name": "Anthony Hopkins",
+                "image": "https://image.tmdb.org/t/p/w185/dYVQTK1dPrQl1mugeLEWSSmA6Im.jpg"
+            },
+            {
+                "name": "Stellan Skarsgård",
+                "image": "https://image.tmdb.org/t/p/w185/mW7xmtGV4y79kQGn0zkKVGDMAmw.jpg"
+            }
+        ],
+        "overview": "Against his father Odin's will, The Mighty Thor - a powerful but arrogant warrior god - recklessly reignites an ancient war. Thor is cast down to Earth and forced to live among humans as punishment. Once here, Thor learns what it takes to be a true hero when the most dangerous villain of his world sends the darkest forces of Asgard to invade Earth.",
+        "runtime": "N/A",
+        "vote_count": 22418,
+        "similarity_score": 32
+    },
+    "The Dark Knight": {
+        "title": "The Dark Knight",
+        "rating": 8.532,
+        "release_date": "2008-07-16",
+        "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "cast": [
+            {
+                "name": "Christian Bale",
+                "image": "https://image.tmdb.org/t/p/w185/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+            },
+            {
+                "name": "Heath Ledger",
+                "image": "https://image.tmdb.org/t/p/w185/AdWKVqyWpkYSfKE5Gb2qn8JzHni.jpg"
+            },
+            {
+                "name": "Aaron Eckhart",
+                "image": "https://image.tmdb.org/t/p/w185/u5JjnRMr9zKEVvOP7k3F6gdcwT6.jpg"
+            },
+            {
+                "name": "Michael Caine",
+                "image": "https://image.tmdb.org/t/p/w185/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+            },
+            {
+                "name": "Maggie Gyllenhaal",
+                "image": "https://image.tmdb.org/t/p/w185/vsfkWdYWmA9CpzMHTJzrFxlDnEZ.jpg"
+            }
+        ],
+        "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+        "runtime": "N/A",
+        "vote_count": 36009,
+        "similarity_score": 31
+    },
+    "The Incredible Hulk": {
+        "title": "The Incredible Hulk",
+        "rating": 6.244,
+        "release_date": "2008-06-12",
+        "poster": "https://image.tmdb.org/t/p/w500/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/jPu8yiadqgzwFPGKJmGo637ASVP.jpg",
+        "genres": [
+            "Sci-Fi",
+            "Action",
+            "Adventure"
+        ],
+        "cast": [
+            {
+                "name": "Edward Norton",
+                "image": "https://image.tmdb.org/t/p/w185/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg"
+            },
+            {
+                "name": "Liv Tyler",
+                "image": "https://image.tmdb.org/t/p/w185/hXFKqlOPVjtfBSPlmQwFnJvhvmU.jpg"
+            },
+            {
+                "name": "Tim Roth",
+                "image": "https://image.tmdb.org/t/p/w185/qSizF2i9gz6c6DbAC5RoIq8sVqX.jpg"
+            },
+            {
+                "name": "William Hurt",
+                "image": "https://image.tmdb.org/t/p/w185/j3mjmuHLBW4XQSw53C8Sh0Lh3ZQ.jpg"
+            },
+            {
+                "name": "Tim Blake Nelson",
+                "image": "https://image.tmdb.org/t/p/w185/rWuTGiAMaaHIJ30eRkQS23LbRSW.jpg"
+            }
+        ],
+        "overview": "Scientist Bruce Banner scours the planet for an antidote to the unbridled force of rage within him: the Hulk. But when the military masterminds who dream of exploiting his powers force him back to civilization, he finds himself coming face to face with a new, deadly foe.",
+        "runtime": "N/A",
+        "vote_count": 12763,
+        "similarity_score": 34
+    },
+    "Superman Returns": {
+        "title": "Superman Returns",
+        "rating": 5.821,
+        "release_date": "2006-06-28",
+        "poster": "https://image.tmdb.org/t/p/w500/385XwTQZDpRX2d3kxtnpiLrjBXw.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/8eRscFbRYl681zDfkjv1jjW1KAA.jpg",
+        "genres": [
+            "Sci-Fi",
+            "Action",
+            "Adventure"
+        ],
+        "cast": [
+            {
+                "name": "Brandon Routh",
+                "image": "https://image.tmdb.org/t/p/w185/iPonANuyk3eOHjADqd4h9sBwvX1.jpg"
+            },
+            {
+                "name": "Kate Bosworth",
+                "image": "https://image.tmdb.org/t/p/w185/ezaM2jsyrxXWVFN1SbH3UfAgZaG.jpg"
+            },
+            {
+                "name": "Kevin Spacey",
+                "image": "https://image.tmdb.org/t/p/w185/nPrUZDEbGQe6jwpVbHKJCXsMd7r.jpg"
+            },
+            {
+                "name": "James Marsden",
+                "image": "https://image.tmdb.org/t/p/w185/lf7OnfKZnMgNh9b98764tqSocGK.jpg"
+            },
+            {
+                "name": "Parker Posey",
+                "image": "https://image.tmdb.org/t/p/w185/yoFt75JfGUqQ6EV8qN6fckQuElk.jpg"
+            }
+        ],
+        "overview": "Superman returns to discover his 5-year absence has allowed Lex Luthor to walk free, and that those he was closest to felt abandoned and have moved on. Luthor plots his ultimate revenge that could see millions killed and change the face of the planet forever, as well as ridding himself of the Man of Steel.",
+        "runtime": "N/A",
+        "vote_count": 4601,
+        "similarity_score": 30
+    },
+    "Harry Potter and the Goblet of Fire": {
+        "title": "Harry Potter and the Goblet of Fire",
+        "rating": 7.803,
+        "release_date": "2005-11-16",
+        "poster": "https://image.tmdb.org/t/p/w500/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/1OV7hau4D3rWGS5bu8sqBYeVpe.jpg",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "cast": [
+            {
+                "name": "Daniel Radcliffe",
+                "image": "https://image.tmdb.org/t/p/w185/uUFfo8RANo7tuckB6AZAnESne55.jpg"
+            },
+            {
+                "name": "Rupert Grint",
+                "image": "https://image.tmdb.org/t/p/w185/q2KZZ0ltTEl7Sf8volNFV1JDEP4.jpg"
+            },
+            {
+                "name": "Emma Watson",
+                "image": "https://image.tmdb.org/t/p/w185/A14lLCZYDhfYdBa0fFRpwMDiwRN.jpg"
+            },
+            {
+                "name": "Brendan Gleeson",
+                "image": "https://image.tmdb.org/t/p/w185/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg"
+            },
+            {
+                "name": "Michael Gambon",
+                "image": "https://image.tmdb.org/t/p/w185/3jdWkDKf4IODbG4JKTeaC7AzxZH.jpg"
+            }
+        ],
+        "overview": "When his name emerges from the Goblet of Fire, Harry Potter becomes a competitor in a grueling battle for glory among three wizarding schools. Signs of Voldemort's return emerge as Harry's friends help him prepare for the Triwizard Tournament.",
+        "runtime": "N/A",
+        "vote_count": 22272,
+        "similarity_score": 47
+    },
+    "Harry Potter and the Order of the Phoenix": {
+        "title": "Harry Potter and the Order of the Phoenix",
+        "rating": 7.672,
+        "release_date": "2007-07-08",
+        "poster": "https://image.tmdb.org/t/p/w500/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/pkxPkHOPJjOvzfQOclANEBT8OfK.jpg",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "cast": [
+            {
+                "name": "Daniel Radcliffe",
+                "image": "https://image.tmdb.org/t/p/w185/uUFfo8RANo7tuckB6AZAnESne55.jpg"
+            },
+            {
+                "name": "Rupert Grint",
+                "image": "https://image.tmdb.org/t/p/w185/q2KZZ0ltTEl7Sf8volNFV1JDEP4.jpg"
+            },
+            {
+                "name": "Emma Watson",
+                "image": "https://image.tmdb.org/t/p/w185/A14lLCZYDhfYdBa0fFRpwMDiwRN.jpg"
+            },
+            {
+                "name": "Imelda Staunton",
+                "image": "https://image.tmdb.org/t/p/w185/96LYLMnUOWZ4DFXEeQPItNsxzEP.jpg"
+            },
+            {
+                "name": "Helena Bonham Carter",
+                "image": "https://image.tmdb.org/t/p/w185/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
+            }
+        ],
+        "overview": "When a new professor's methods leave Hogwarts unprepared to fight the rising tide of evil, Harry teaches students how to defend against the dark arts.",
+        "runtime": "N/A",
+        "vote_count": 20898,
+        "similarity_score": 46
+    },
+    "Harry Potter and the Chamber of Secrets": {
+        "title": "Harry Potter and the Chamber of Secrets",
+        "rating": 7.705,
+        "release_date": "2002-11-13",
+        "poster": "https://image.tmdb.org/t/p/w500/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/1stUIsjawROZxjiCMtqqXqgfZWC.jpg",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "cast": [
+            {
+                "name": "Daniel Radcliffe",
+                "image": "https://image.tmdb.org/t/p/w185/uUFfo8RANo7tuckB6AZAnESne55.jpg"
+            },
+            {
+                "name": "Rupert Grint",
+                "image": "https://image.tmdb.org/t/p/w185/q2KZZ0ltTEl7Sf8volNFV1JDEP4.jpg"
+            },
+            {
+                "name": "Emma Watson",
+                "image": "https://image.tmdb.org/t/p/w185/A14lLCZYDhfYdBa0fFRpwMDiwRN.jpg"
+            },
+            {
+                "name": "Kenneth Branagh",
+                "image": "https://image.tmdb.org/t/p/w185/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg"
+            },
+            {
+                "name": "Toby Jones",
+                "image": "https://image.tmdb.org/t/p/w185/y6kLmjLgZ1sceaE4Zi1fwF0YsvZ.jpg"
+            }
+        ],
+        "overview": "Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione's magical abilities and courage.",
+        "runtime": "N/A",
+        "vote_count": 23692,
+        "similarity_score": 43
+    },
+    "Harry Potter and the Prisoner of Azkaban": {
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "rating": 8.009,
+        "release_date": "2004-05-31",
+        "poster": "https://image.tmdb.org/t/p/w500/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/htmYEfH7TQgzsXHCnNXxmoYKQtL.jpg",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "cast": [
+            {
+                "name": "Daniel Radcliffe",
+                "image": "https://image.tmdb.org/t/p/w185/uUFfo8RANo7tuckB6AZAnESne55.jpg"
+            },
+            {
+                "name": "Rupert Grint",
+                "image": "https://image.tmdb.org/t/p/w185/q2KZZ0ltTEl7Sf8volNFV1JDEP4.jpg"
+            },
+            {
+                "name": "Emma Watson",
+                "image": "https://image.tmdb.org/t/p/w185/A14lLCZYDhfYdBa0fFRpwMDiwRN.jpg"
+            },
+            {
+                "name": "Robbie Coltrane",
+                "image": "https://image.tmdb.org/t/p/w185/jOHs3xvlwRiiG2CLtso5zzmGCXg.jpg"
+            },
+            {
+                "name": "Michael Gambon",
+                "image": "https://image.tmdb.org/t/p/w185/3jdWkDKf4IODbG4JKTeaC7AzxZH.jpg"
+            }
+        ],
+        "overview": "Harry Potter's life is in danger once more as dangerous wizard Sirius Black has escaped from Azkaban Prison and is heading to Hogwarts.",
+        "runtime": "N/A",
+        "vote_count": 23267,
+        "similarity_score": 40
+    },
+    "The NeverEnding Story": {
+        "title": "The NeverEnding Story",
+        "rating": 7.2,
+        "release_date": "1984-04-06",
+        "poster": "https://image.tmdb.org/t/p/w500/ddYCa91iDXfJCxaqSYzwi2fjfnl.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/rKmOe5pb5a6P1HmQAzpRw20gORp.jpg",
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Family"
+        ],
+        "cast": [
+            {
+                "name": "Noah Hathaway",
+                "image": "https://image.tmdb.org/t/p/w185/ceJroN6JLOKOJUC4AOXq0yKHAXO.jpg"
+            },
+            {
+                "name": "Barret Oliver",
+                "image": "https://image.tmdb.org/t/p/w185/nLYTI7o2IyXpxlYE1jncusRxXIM.jpg"
+            },
+            {
+                "name": "Tami Stronach",
+                "image": "https://image.tmdb.org/t/p/w185/hxekEPKrKNlNAiS16n3wPI4asOf.jpg"
+            },
+            {
+                "name": "Alan Oppenheimer",
+                "image": "https://image.tmdb.org/t/p/w185/5UAa7wSnoh6JwiAKciCCKB9dnro.jpg"
+            },
+            {
+                "name": "Sydney Bromley",
+                "image": null
+            }
+        ],
+        "overview": "While hiding from bullies in his school's attic, a young boy discovers the extraordinary land of Fantasia, through a magical book called The Neverending Story. The book tells the tale of Atreyu, a young warrior who, with the help of a luck dragon named Falkor, must save Fantasia from the destruction of The Nothing.",
+        "runtime": "N/A",
+        "vote_count": 4407,
+        "similarity_score": 26
+    },
+    "How to Fall in Love": {
+        "title": "How to Fall in Love",
+        "rating": 6.0,
+        "release_date": "2012-07-21",
+        "poster": "https://image.tmdb.org/t/p/w500/vpZavsKDpoAyNoeXFTpVW8Q6R8A.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/78baFP63cnVdpODDVrfFAqAg6Az.jpg",
+        "genres": [
+            "Comedy"
+        ],
+        "cast": [
+            {
+                "name": "Brooke D'Orsay",
+                "image": "https://image.tmdb.org/t/p/w185/8lBeEbyKz8KWz6XDdbymRpKoM9N.jpg"
+            },
+            {
+                "name": "Eric Mabius",
+                "image": "https://image.tmdb.org/t/p/w185/gfTyV38S5BzV9pZnIducUgo68hK.jpg"
+            },
+            {
+                "name": "Jody Thompson",
+                "image": "https://image.tmdb.org/t/p/w185/3bhRTl6RQUco8a2cOF3a7uBvIj.jpg"
+            },
+            {
+                "name": "Gina Holden",
+                "image": "https://image.tmdb.org/t/p/w185/oBzSVgTkQen3Q1EGDo7ycrBTDEn.jpg"
+            },
+            {
+                "name": "Panou",
+                "image": "https://image.tmdb.org/t/p/w185/sTzo3nVxCyZanJqnBPFGgd8wxNI.jpg"
+            }
+        ],
+        "overview": "An accountant, who never quite grew out of his awkward teenage years, finds himself with a dating coach - she happens to be his high school crush as well. Thanks to his coach, he gets a pretty woman he has his sights on for some time, but realizes they are incompatible. Meanwhile, his dating lessons with his teenage crush reawaken old feelings. Not realizing the feelings are mutual, he finds himself unable to act on them due to his fear of being rejected by the one he truly loves.",
+        "runtime": "N/A",
+        "vote_count": 78,
+        "similarity_score": 23
+    },
+    "Harry Potter and the Philosopher's Stone": {
+        "title": "Harry Potter and the Philosopher's Stone",
+        "rating": 7.9,
+        "release_date": "2001-11-16",
+        "poster": "https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/1XAC6RPT01UX9EQGy2JVn5c8pgy.jpg",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "cast": [
+            {
+                "name": "Daniel Radcliffe",
+                "image": "https://image.tmdb.org/t/p/w185/uUFfo8RANo7tuckB6AZAnESne55.jpg"
+            },
+            {
+                "name": "Rupert Grint",
+                "image": "https://image.tmdb.org/t/p/w185/q2KZZ0ltTEl7Sf8volNFV1JDEP4.jpg"
+            },
+            {
+                "name": "Emma Watson",
+                "image": "https://image.tmdb.org/t/p/w185/A14lLCZYDhfYdBa0fFRpwMDiwRN.jpg"
+            },
+            {
+                "name": "Richard Harris",
+                "image": "https://image.tmdb.org/t/p/w185/lCvcVMuxrg1f5A8OMqY9AqkkcZR.jpg"
+            },
+            {
+                "name": "Tom Felton",
+                "image": "https://image.tmdb.org/t/p/w185/etmtUBzJ1i1XJTLS6MkotJFE1se.jpg"
+            }
+        ],
+        "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
+        "runtime": "N/A",
+        "vote_count": 29731,
+        "similarity_score": 43
+    },
+    "Teen Wolf Too": {
+        "title": "Teen Wolf Too",
+        "rating": 4.167,
+        "release_date": "1987-11-20",
+        "poster": "https://image.tmdb.org/t/p/w500/unfbmoUTIsQzQF09RJZVN1GKr6b.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/qeDgecvGMKPuiPhpku7eD9yMMx1.jpg",
+        "genres": [
+            "Comedy",
+            "Fantasy",
+            "Family"
+        ],
+        "cast": [
+            {
+                "name": "Jason Bateman",
+                "image": "https://image.tmdb.org/t/p/w185/wS22fofYtUf4aGXACFwhkTjUk6a.jpg"
+            },
+            {
+                "name": "Kim Darby",
+                "image": "https://image.tmdb.org/t/p/w185/w1dwAymNXsi16SAuZZsl2JTEWFd.jpg"
+            },
+            {
+                "name": "John Astin",
+                "image": "https://image.tmdb.org/t/p/w185/xczlYoJJblfyoOudcn7riLqsbXW.jpg"
+            },
+            {
+                "name": "Paul Sand",
+                "image": "https://image.tmdb.org/t/p/w185/h6PTXhdiAH94dSrs5UutrzZZhH6.jpg"
+            },
+            {
+                "name": "Mark Holton",
+                "image": "https://image.tmdb.org/t/p/w185/2NleIh4ohQcw9M5i8mNYzq5qqwE.jpg"
+            }
+        ],
+        "overview": "Although awkward college student Todd Howard is particularly adept at science, he's paying for school with an athletic scholarship that he will lose should he not fare well in an upcoming boxing tournament. Luckily for Todd, he has inherited the same family curse that once turned his cousin into a werewolf. As he transforms into the hairy, fanged, howling monster, he finds both his physical agility and his popularity skyrocketing -- but at what cost?",
+        "runtime": "N/A",
+        "vote_count": 233,
+        "similarity_score": 23
+    },
+    "Inkheart": {
+        "title": "Inkheart",
+        "rating": 6.296,
+        "release_date": "2008-12-11",
+        "poster": "https://image.tmdb.org/t/p/w500/eXFK5aBDzUPSynAhSKMJy7xLxqE.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/dA1IWByfIvTktERGU4bzQqD3Xu8.jpg",
+        "genres": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "cast": [],
+        "overview": "The adventures of a father and his young daughter, in their search for a long lost book that will help reunite a missing, close relative.",
+        "runtime": "N/A",
+        "vote_count": 2274,
+        "similarity_score": 22
+    },
+    "The Adventurer: The Curse of the Midas Box": {
+        "title": "The Adventurer: The Curse of the Midas Box",
+        "rating": 5.723,
+        "release_date": "2013-12-05",
+        "poster": "https://image.tmdb.org/t/p/w500/31ykUoOS2RNdARk3B8z3y25gD8b.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/fWmm5X31wPqt5fC5fxf1W17DvAy.jpg",
+        "genres": [
+            "Fantasy",
+            "Adventure",
+            "Family"
+        ],
+        "cast": [
+            {
+                "name": "Aneurin Barnard",
+                "image": "https://image.tmdb.org/t/p/w185/aiuFLvyaxmuglNi3nfQ3oL9qW97.jpg"
+            },
+            {
+                "name": "Michael Sheen",
+                "image": "https://image.tmdb.org/t/p/w185/nGxIcIcfJjdPN3k8zFabtA1gRqL.jpg"
+            },
+            {
+                "name": "Lena Headey",
+                "image": "https://image.tmdb.org/t/p/w185/cDyZLf8ddz0EgoUjpv4jjzy7qxA.jpg"
+            },
+            {
+                "name": "Sam Neill",
+                "image": "https://image.tmdb.org/t/p/w185/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
+            },
+            {
+                "name": "Ioan Gruffudd",
+                "image": "https://image.tmdb.org/t/p/w185/h2pg2XwJPcOWotHgiohXjEZUBLa.jpg"
+            }
+        ],
+        "overview": "Seventeen-year-old Mariah Mundi's life is turned upside down when his parents vanish and his younger brother is kidnapped. Following a trail of clues to the darkly majestic Prince Regent Hotel, Mariah discovers a hidden realm of child-stealing monsters, deadly secrets and a long-lost artefact that grants limitless wealth—but also devastating supernatural power. With the fate of his world, and his family at stake, Mariah will risk everything to unravel the Curse of the Midas Box.",
+        "runtime": "N/A",
+        "vote_count": 253,
+        "similarity_score": 22
+    },
+    "The Notebook": {
+        "title": "The Notebook",
+        "rating": 7.889,
+        "release_date": "2004-06-25",
+        "poster": "https://image.tmdb.org/t/p/w500/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/zdXnJqBaGFVtLoPNuMeKfEYUViZ.jpg",
+        "genres": [
+            "Drama"
+        ],
+        "cast": [
+            {
+                "name": "Ryan Gosling",
+                "image": "https://image.tmdb.org/t/p/w185/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+            },
+            {
+                "name": "Rachel McAdams",
+                "image": "https://image.tmdb.org/t/p/w185/2zyOjda95OfAAsJvuwTV0UaznPZ.jpg"
+            },
+            {
+                "name": "Gena Rowlands",
+                "image": "https://image.tmdb.org/t/p/w185/j6Op08k2AkPGrNHpMNp30Pu8t36.jpg"
+            },
+            {
+                "name": "James Garner",
+                "image": "https://image.tmdb.org/t/p/w185/8186fvIAGrIGqnvb49CgULo34G4.jpg"
+            },
+            {
+                "name": "Joan Allen",
+                "image": "https://image.tmdb.org/t/p/w185/aLYQFv11lb8hyBuP7ewkuxWbK8q.jpg"
+            }
+        ],
+        "overview": "An epic love story centered around an older man who reads aloud to a woman with Alzheimer's. From a faded notebook, the old man's words bring to life the story about a couple who is separated by World War II, and is then passionately reunited, seven years later, after they have taken different paths.",
+        "runtime": "N/A",
+        "vote_count": 12624,
+        "similarity_score": 41
+    },
+    "Agora": {
+        "title": "Agora",
+        "rating": 6.992,
+        "release_date": "2009-05-17",
+        "poster": "https://image.tmdb.org/t/p/w500/1xsFa6I5vDd2UI1AJ1tsW7BUChv.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/bdms9QMM4y6NBKIvXDINsKnK0Fj.jpg",
+        "genres": [
+            "Adventure",
+            "Drama"
+        ],
+        "cast": [],
+        "overview": "A historical drama set in Roman Egypt, concerning philosopher Hypatia of Alexandria and her relationship with her slave Davus, who is torn between his love for her and the possibility of gaining his freedom by joining the rising tide of Christianity.",
+        "runtime": "N/A",
+        "vote_count": 1566,
+        "similarity_score": 40
+    },
+    "Iris": {
+        "title": "In the Shadow of Iris",
+        "rating": 5.871,
+        "release_date": "2016-11-16",
+        "poster": "https://image.tmdb.org/t/p/w500/tzVLPSoLfs0U3JHeGW5RKvsRAO.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/1K3eMmurLIs9LlT0KP94wGCbyPv.jpg",
+        "genres": [
+            "Thriller",
+            "Drama"
+        ],
+        "cast": [
+            {
+                "name": "Romain Duris",
+                "image": "https://image.tmdb.org/t/p/w185/70KN228eNpvouPTCxDSurnCzx9G.jpg"
+            },
+            {
+                "name": "Charlotte Le Bon",
+                "image": "https://image.tmdb.org/t/p/w185/gFxDFaeEDNjT9gKrQNB5GG8b8aM.jpg"
+            },
+            {
+                "name": "Jalil Lespert",
+                "image": "https://image.tmdb.org/t/p/w185/lvHoQZBYLV33KDoog9Xt30GtaOy.jpg"
+            },
+            {
+                "name": "Camille Cottin",
+                "image": "https://image.tmdb.org/t/p/w185/ArBIA46esEk1qMlSwoVPR1SxPvc.jpg"
+            },
+            {
+                "name": "Adel Bencherif",
+                "image": "https://image.tmdb.org/t/p/w185/edoqFJ3Vhg7Ue0qj6XK4G2q75qU.jpg"
+            }
+        ],
+        "overview": "The sudden disappearance of a wealthy banker's wife cracks open a dizzying world of secret fetishes, desperate acts and elaborate deceptions.",
+        "runtime": "N/A",
+        "vote_count": 267,
+        "similarity_score": 39
+    },
+    "The Bridges of Madison County": {
+        "title": "The Bridges of Madison County",
+        "rating": 7.71,
+        "release_date": "1995-06-02",
+        "poster": "https://image.tmdb.org/t/p/w500/aCBrhOQjhG397GLkEZ49zReQEKX.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/4TnGcUsyd6ixuLWHaaEG5BGkAIp.jpg",
+        "genres": [
+            "Drama"
+        ],
+        "cast": [
+            {
+                "name": "Meryl Streep",
+                "image": "https://image.tmdb.org/t/p/w185/g5cVxQBAQ3AXt3LhdBXtbbN47Uc.jpg"
+            },
+            {
+                "name": "Clint Eastwood",
+                "image": "https://image.tmdb.org/t/p/w185/8TwdCfeOZH7ucRlfLZ6wObxa7cO.jpg"
+            },
+            {
+                "name": "Annie Corley",
+                "image": "https://image.tmdb.org/t/p/w185/rz72CxdBciMiyqY38Ik6C6dMB3I.jpg"
+            },
+            {
+                "name": "Victor Slezak",
+                "image": "https://image.tmdb.org/t/p/w185/ePiUGZJP5sVpk0I7oEEy9OuLgMD.jpg"
+            },
+            {
+                "name": "Jim Haynie",
+                "image": "https://image.tmdb.org/t/p/w185/xOOfHlwhjY9OKeLeUCJ2oiSz8gn.jpg"
+            }
+        ],
+        "overview": "Photographer Robert Kincaid wanders into the life of housewife Francesca Johnson for four days in the 1960s.",
+        "runtime": "N/A",
+        "vote_count": 2384,
+        "similarity_score": 38
+    },
+    "Closer": {
+        "title": "Closer",
+        "rating": 6.835,
+        "release_date": "2004-12-03",
+        "poster": "https://image.tmdb.org/t/p/w500/fGGaokx4k00S0J603VG53Qlr9jz.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/s7oDV92ltdecJ7BTfGSOgsDi900.jpg",
+        "genres": [
+            "Drama"
+        ],
+        "cast": [
+            {
+                "name": "Jude Law",
+                "image": "https://image.tmdb.org/t/p/w185/1rTmD8B1YAE1MrrBJs4krIiIvNM.jpg"
+            },
+            {
+                "name": "Natalie Portman",
+                "image": "https://image.tmdb.org/t/p/w185/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
+            },
+            {
+                "name": "Julia Roberts",
+                "image": "https://image.tmdb.org/t/p/w185/fQacAdIa1WUNChQ6FgEko13eqOA.jpg"
+            },
+            {
+                "name": "Clive Owen",
+                "image": "https://image.tmdb.org/t/p/w185/xlWpuLgwxMnZEVgV9OID1TkUNtP.jpg"
+            },
+            {
+                "name": "Colin Stinton",
+                "image": "https://image.tmdb.org/t/p/w185/py45eR9pshr0xDUMRN4B8FsqrsH.jpg"
+            }
+        ],
+        "overview": "The relationships of two couples become complicated and deceitful when the man from one couple meets the woman of the other.",
+        "runtime": "N/A",
+        "vote_count": 3754,
+        "similarity_score": 40
+    },
+    "Love in the Time of Cholera": {
+        "title": "Love in the Time of Cholera",
+        "rating": 6.67,
+        "release_date": "2007-10-04",
+        "poster": "https://image.tmdb.org/t/p/w500/lU3uvWGQlWeySxrUlJpxNaHW2Ra.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/qD4oylPXPLxQCULTWPzhwWSeEVI.jpg",
+        "genres": [
+            "Drama"
+        ],
+        "cast": [
+            {
+                "name": "Javier Bardem",
+                "image": "https://image.tmdb.org/t/p/w185/p5xjCovj1uzvA2SXrWLH78Nh1Jf.jpg"
+            },
+            {
+                "name": "Giovanna Mezzogiorno",
+                "image": "https://image.tmdb.org/t/p/w185/uR2MenLF5uupH5E2hCmlBNKgleh.jpg"
+            },
+            {
+                "name": "Benjamin Bratt",
+                "image": "https://image.tmdb.org/t/p/w185/hBenHPT4iJEG2kt5z2TOGnkRZwh.jpg"
+            },
+            {
+                "name": "John Leguizamo",
+                "image": "https://image.tmdb.org/t/p/w185/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+            },
+            {
+                "name": "Fernanda Montenegro",
+                "image": "https://image.tmdb.org/t/p/w185/bja0rn1BjAnA5Z5VbEvL2apvMT5.jpg"
+            }
+        ],
+        "overview": "In Colombia just after the Great War, an old man falls from a ladder; dying, he professes great love for his wife. After the funeral, a man calls on the widow - she dismisses him angrily. Flash back more than 50 years to the day Florentino Ariza, a telegraph boy, falls in love with Fermina Daza, the daughter of a mule trader.",
+        "runtime": "N/A",
+        "vote_count": 411,
+        "similarity_score": 36
+    },
+    "August Rush": {
+        "title": "August Rush",
+        "rating": 7.4,
+        "release_date": "2007-10-18",
+        "poster": "https://image.tmdb.org/t/p/w500/oA6ZeICPINiS6YtD5WZeBaGVmuT.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/i3pONuqGZSR3UYOOdBeU2CiQnxj.jpg",
+        "genres": [
+            "Family",
+            "Drama"
+        ],
+        "cast": [
+            {
+                "name": "Freddie Highmore",
+                "image": "https://image.tmdb.org/t/p/w185/9larfGVg8ALIVFkr7cZzv4Emh1F.jpg"
+            },
+            {
+                "name": "Keri Russell",
+                "image": "https://image.tmdb.org/t/p/w185/ykURfUHObA2wnLCtD4jrdMvFPkA.jpg"
+            },
+            {
+                "name": "Jonathan Rhys Meyers",
+                "image": "https://image.tmdb.org/t/p/w185/RsrGA98aMmyjTTxTLhAaOqnfLz.jpg"
+            },
+            {
+                "name": "Terrence Howard",
+                "image": "https://image.tmdb.org/t/p/w185/wXWt2NSY23v7DHe2yZQ1C8TikBp.jpg"
+            },
+            {
+                "name": "Robin Williams",
+                "image": "https://image.tmdb.org/t/p/w185/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg"
+            }
+        ],
+        "overview": "Evan, a musically gifted orphan, runs away from his orphanage and searches New York City for his birth parents. On his journey, he's taken under the wing of the Wizard, a homeless man who lives in an abandoned theater. After discovering his talent, the Wizard gives Evan the name \"August Rush\" and devises a plan to profit from his talent. Little does Evan know that his parents, Lyla and Louis, are searching for him too.",
+        "runtime": "N/A",
+        "vote_count": 2845,
+        "similarity_score": 36
+    },
+    "2046": {
+        "title": "2046",
+        "rating": 7.227,
+        "release_date": "2004-09-29",
+        "poster": "https://image.tmdb.org/t/p/w500/jIN65qw0Giplo4CshzMrxz204Wn.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/h3JAMIeywbzobkhu2rt3mQAwRR1.jpg",
+        "genres": [
+            "Drama",
+            "Sci-Fi"
+        ],
+        "cast": [],
+        "overview": "Women enter and exit a science fiction author's life over the course of a few years after the author loses the woman he considers his one true love.",
+        "runtime": "N/A",
+        "vote_count": 1083,
+        "similarity_score": 36
+    },
+    "Jab Tak Hai Jaan": {
+        "title": "Jab Tak Hai Jaan",
+        "rating": 7.033,
+        "release_date": "2012-11-13",
+        "poster": "https://image.tmdb.org/t/p/w500/1TlzJZrzUlaC95Noqt3oMoxQxCu.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/sgf60uAPn95lBAcSX9eQE8bKxTb.jpg",
+        "genres": [
+            "Drama"
+        ],
+        "cast": [
+            {
+                "name": "Shah Rukh Khan",
+                "image": "https://image.tmdb.org/t/p/w185/gc3Ul6EtVYKgjBuYAaD8U2qIcSl.jpg"
+            },
+            {
+                "name": "Katrina Kaif",
+                "image": "https://image.tmdb.org/t/p/w185/4EAYTJvGdt4NYl2BUKZMdz4lztR.jpg"
+            },
+            {
+                "name": "Anushka Sharma",
+                "image": "https://image.tmdb.org/t/p/w185/8Xmfnwe6pf58duYqxxYv81phs2.jpg"
+            },
+            {
+                "name": "Sarika",
+                "image": "https://image.tmdb.org/t/p/w185/l8ajI6YFpnV1rxq4wJ8TbA3hDZP.jpg"
+            },
+            {
+                "name": "Andrew Bicknell",
+                "image": "https://image.tmdb.org/t/p/w185/33fzI79LJuBNkKghCTukH6d65AH.jpg"
+            }
+        ],
+        "overview": "Samar Anand (Shah Rukh Khan), a London-based struggling musician falls in love with Meera Thappar (Katrina Kaif). After a severe accident, a panicked Meera promises God to leave Samar if he lives. Heartbroken, Samar leaves for India to become a fearless bomb disposal expert in the army.",
+        "runtime": "N/A",
+        "vote_count": 289,
+        "similarity_score": 34
+    },
+    "Vaalu": {
+        "title": "Vaalu",
+        "rating": 4.8,
+        "release_date": "2015-08-14",
+        "poster": "https://image.tmdb.org/t/p/w500/cQ3MxP5yrMfdjSwVq2hjW5oRWKy.jpg",
+        "backdrop": null,
+        "genres": [
+            "Comedy"
+        ],
+        "cast": [
+            {
+                "name": "Silambarasan",
+                "image": "https://image.tmdb.org/t/p/w185/1T35CiKVldfxElZfQqaoN6GhvuU.jpg"
+            },
+            {
+                "name": "Hansika Motwani",
+                "image": "https://image.tmdb.org/t/p/w185/3xCuu8Wwj8TCCtYjVTiXt1nGTtn.jpg"
+            },
+            {
+                "name": "Santhanam",
+                "image": "https://image.tmdb.org/t/p/w185/6OoqLm0jzC1Ko6jMGdIJrVWM9nk.jpg"
+            },
+            {
+                "name": "VTV Ganesh",
+                "image": "https://image.tmdb.org/t/p/w185/5JomvpPx6PrExYcZAbHM1MoHjoZ.jpg"
+            },
+            {
+                "name": "Brahmanandam",
+                "image": "https://image.tmdb.org/t/p/w185/zh6nWEIy3l1dsZA9EDuDezq867b.jpg"
+            }
+        ],
+        "overview": "Sharp (Simbu), a happy-go-lucky guy, loves Priya (Hansika), a college student, but later learns that she is enagaged to Anbu ( Aditya), a businessman-gangster. Priya wants them to remain friends and Sharp agrees, all the while scheming to make her fall in love with him.",
+        "runtime": "N/A",
+        "vote_count": 10,
+        "similarity_score": 34
+    },
+    "Snow White and the Huntsman": {
+        "title": "Snow White and the Huntsman",
+        "rating": 5.986,
+        "release_date": "2012-05-30",
+        "poster": "https://image.tmdb.org/t/p/w500/8HUa5kRubYbnAD5UVpnhTGGgMTW.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/KBe9fHU5rVg4daoKnFwl1Cbc28.jpg",
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Drama"
+        ],
+        "cast": [
+            {
+                "name": "Kristen Stewart",
+                "image": "https://image.tmdb.org/t/p/w185/xldswdQ1VnpcOf2wZMPguZ3avgO.jpg"
+            },
+            {
+                "name": "Chris Hemsworth",
+                "image": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+            },
+            {
+                "name": "Charlize Theron",
+                "image": "https://image.tmdb.org/t/p/w185/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg"
+            },
+            {
+                "name": "Sam Claflin",
+                "image": "https://image.tmdb.org/t/p/w185/e5CU4tjCNZFfm7ITmZfzjZse2Bb.jpg"
+            },
+            {
+                "name": "Ian McShane",
+                "image": "https://image.tmdb.org/t/p/w185/qh9RTLbnr128TZLdGuXwUH9mdBM.jpg"
+            }
+        ],
+        "overview": "After the Evil Queen marries the King, she performs a violent coup in which the King is murdered and his daughter, Snow White, is taken captive. Almost a decade later, a grown Snow White is still in the clutches of the Queen. In order to obtain immortality, The Evil Queen needs the heart of Snow White. After Snow escapes the castle, the Queen sends the Huntsman to find her in the Dark Forest.",
+        "runtime": "N/A",
+        "vote_count": 8260,
+        "similarity_score": 53
+    },
+    "Mirror Mirror": {
+        "title": "Mirror",
+        "rating": 7.952,
+        "release_date": "1975-03-07",
+        "poster": "https://image.tmdb.org/t/p/w500/AttDP5OEsMxtHPPN7Z92p2Ntnmd.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/9UAcMhSCDJ2OCo5QdPpSERjhMA1.jpg",
+        "genres": [
+            "Drama"
+        ],
+        "cast": [
+            {
+                "name": "Margarita Terekhova",
+                "image": "https://image.tmdb.org/t/p/w185/u53Jvwb6ppoZZTjflO7oH7iPpPt.jpg"
+            },
+            {
+                "name": "Ignat Daniltsev",
+                "image": "https://image.tmdb.org/t/p/w185/cf63G5PBEcqVWcHcgkWoTFZ0PU0.jpg"
+            },
+            {
+                "name": "Larisa Tarkovskaya",
+                "image": null
+            },
+            {
+                "name": "Alla Demidova",
+                "image": "https://image.tmdb.org/t/p/w185/b5gVC4NBaoouPF0DMrAEfhEbU30.jpg"
+            },
+            {
+                "name": "Anatoliy Solonitsyn",
+                "image": "https://image.tmdb.org/t/p/w185/37Vb7vNMHAz1s2WI5kW4BHt0X0N.jpg"
+            }
+        ],
+        "overview": "A dying man in his forties recalls his childhood, his mother, the war and personal moments that tell of and juxtapose pivotal moments in Soviet history with daily life.",
+        "runtime": "N/A",
+        "vote_count": 1095,
+        "similarity_score": 41
+    },
+    "The Huntsman: Winter's War": {
+        "title": "The Huntsman: Winter's War",
+        "rating": 6.3,
+        "release_date": "2016-04-06",
+        "poster": "https://image.tmdb.org/t/p/w500/ekHPrneEoa1EoDclWdillOKznqM.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/4kCDWJhceLHwPbRWd9uTR8bJpLz.jpg",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "cast": [
+            {
+                "name": "Chris Hemsworth",
+                "image": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+            },
+            {
+                "name": "Charlize Theron",
+                "image": "https://image.tmdb.org/t/p/w185/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg"
+            },
+            {
+                "name": "Emily Blunt",
+                "image": "https://image.tmdb.org/t/p/w185/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg"
+            },
+            {
+                "name": "Jessica Chastain",
+                "image": "https://image.tmdb.org/t/p/w185/eQKnihReJeB9vQEa5gySzAlKfZt.jpg"
+            },
+            {
+                "name": "Nick Frost",
+                "image": "https://image.tmdb.org/t/p/w185/2CHS4t6miNGLgMQAjhFqb4fFuKS.jpg"
+            }
+        ],
+        "overview": "As two evil sisters prepare to conquer the land, two renegades—Eric the Huntsman, who aided Snow White in defeating Ravenna in Snowwhite and the Huntsman, and his forbidden lover, Sara—set out to stop them.",
+        "runtime": "N/A",
+        "vote_count": 5064,
+        "similarity_score": 30
+    },
+    "Sydney White": {
+        "title": "Sydney White",
+        "rating": 6.5,
+        "release_date": "2007-09-21",
+        "poster": "https://image.tmdb.org/t/p/w500/ce3NNmhVZY5NkUe5Y8Je8CciKqf.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/bB2L8pB8Qdy3sd4b94Vw75EUEpo.jpg",
+        "genres": [
+            "Comedy"
+        ],
+        "cast": [],
+        "overview": "College freshman Sydney White arrives at Southern Atlantic University, determined to pledge her late mother's sorority. Unfortunately, she finds that the sisterhood has changed since her parent's day. Banished to a condemned house, Sydney joins forces with seven outcasts to take over the student government and win equal rights for nerd and noted alike.",
+        "runtime": "N/A",
+        "vote_count": 1113,
+        "similarity_score": 27
+    },
+    "Enchanted": {
+        "title": "Enchanted",
+        "rating": 6.846,
+        "release_date": "2007-11-20",
+        "poster": "https://image.tmdb.org/t/p/w500/8KCNzCArLlvLdQoHx6npua2VSVc.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/u4UpRDi0w84aNrigr9p049rMHiy.jpg",
+        "genres": [
+            "Comedy",
+            "Family",
+            "Fantasy"
+        ],
+        "cast": [
+            {
+                "name": "Amy Adams",
+                "image": "https://image.tmdb.org/t/p/w185/lub0nBRhsCu2pByvfvxt5DcW86d.jpg"
+            },
+            {
+                "name": "Patrick Dempsey",
+                "image": "https://image.tmdb.org/t/p/w185/2PpaYtXdaDmNi3jap4qPIdyVesL.jpg"
+            },
+            {
+                "name": "James Marsden",
+                "image": "https://image.tmdb.org/t/p/w185/lf7OnfKZnMgNh9b98764tqSocGK.jpg"
+            },
+            {
+                "name": "Timothy Spall",
+                "image": "https://image.tmdb.org/t/p/w185/pcR6t8kpAgGwIUo4UjlP5gyKkNA.jpg"
+            },
+            {
+                "name": "Idina Menzel",
+                "image": "https://image.tmdb.org/t/p/w185/eGsyJmAZNV5tUU4RYy2DIRlFVpW.jpg"
+            }
+        ],
+        "overview": "The beautiful princess Giselle is banished by an evil queen from her magical, musical animated land and finds herself in the gritty reality of the streets of modern-day Manhattan. Shocked by this strange new environment that doesn't operate on a \"happily ever after\" basis, Giselle is now adrift in a chaotic world badly in need of enchantment. But when Giselle begins to fall in love with a charmingly flawed divorce lawyer who has come to her aid - even though she is already promised to a perfect fairy tale prince back home - she has to wonder: Can a storybook view of romance survive in the real world?",
+        "runtime": "N/A",
+        "vote_count": 5735,
+        "similarity_score": 24
+    },
+    "The Butler": {
+        "title": "The Butler",
+        "rating": 7.321,
+        "release_date": "2013-08-16",
+        "poster": "https://image.tmdb.org/t/p/w500/pAi8Bl3ZKX6pANPVhNwbhbQANop.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/g0nLh5eQjTcffJUavvatBNkaSpy.jpg",
+        "genres": [
+            "Drama"
+        ],
+        "cast": [
+            {
+                "name": "Forest Whitaker",
+                "image": "https://image.tmdb.org/t/p/w185/4w7l5JUwnwFNBy7J93ZwYN1nihm.jpg"
+            },
+            {
+                "name": "Oprah Winfrey",
+                "image": "https://image.tmdb.org/t/p/w185/nNpYieaDLxKZWw2FY9wsDkjwURu.jpg"
+            },
+            {
+                "name": "David Oyelowo",
+                "image": "https://image.tmdb.org/t/p/w185/7UZHRwOKe2cYxj8SeNUklyPYkns.jpg"
+            },
+            {
+                "name": "John Cusack",
+                "image": "https://image.tmdb.org/t/p/w185/aCwCx6JU7Jxbg6Q1ygcnLY750le.jpg"
+            },
+            {
+                "name": "Jane Fonda",
+                "image": "https://image.tmdb.org/t/p/w185/5Yb3nmRWXXZAxNhfhEuOMdfyVNN.jpg"
+            }
+        ],
+        "overview": "Cecil Gaines was a sharecropper's son who grew up in the 1920s as a domestic servant for the white family who casually destroyed his. Eventually striking out on his own, Cecil becomes a hotel valet of such efficiency and discreteness in the 1950s that he becomes a butler in the White House itself. There, Cecil would serve numerous US Presidents over the decades as a passive witness of history with the American Civil Rights Movement gaining momentum even as his family has troubles of its own. As his wife, Gloria, struggles with alcoholism and his defiant eldest son, Louis, strives for a just world, Cecil must decide whether he should take action in his own way.",
+        "runtime": "N/A",
+        "vote_count": 3041,
+        "similarity_score": 20
+    },
+    "Frozen": {
+        "title": "Frozen",
+        "rating": 7.249,
+        "release_date": "2013-11-20",
+        "poster": "https://image.tmdb.org/t/p/w500/itAKcobTYGpYT8Phwjd8c9hleTo.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/rj58WQ9ImI0mYDptXdM7euX1Wjt.jpg",
+        "genres": [
+            "Animation",
+            "Family",
+            "Adventure"
+        ],
+        "cast": [
+            {
+                "name": "Idina Menzel",
+                "image": "https://image.tmdb.org/t/p/w185/eGsyJmAZNV5tUU4RYy2DIRlFVpW.jpg"
+            },
+            {
+                "name": "Kristen Bell",
+                "image": "https://image.tmdb.org/t/p/w185/rP74dJXl7EjinGM0shQtUOlH5s2.jpg"
+            },
+            {
+                "name": "Jonathan Groff",
+                "image": "https://image.tmdb.org/t/p/w185/3kmnYKAzSc3Lp7iK5pcj97Hx9Cm.jpg"
+            },
+            {
+                "name": "Josh Gad",
+                "image": "https://image.tmdb.org/t/p/w185/p9hWNRwrVEBpl8We2bxLMHkk5Mj.jpg"
+            },
+            {
+                "name": "Livvy Stubenrauch",
+                "image": "https://image.tmdb.org/t/p/w185/13BqIDnKbVt43SVvVxXa0glwzWw.jpg"
+            }
+        ],
+        "overview": "Young princess Anna of Arendelle dreams about finding true love at her sister Elsa’s coronation. Fate takes her on a dangerous journey in an attempt to end the eternal winter that has fallen over the kingdom. She's accompanied by ice delivery man Kristoff, his reindeer Sven, and snowman Olaf. On an adventure where she will find out what friendship, courage, family, and true love really means.",
+        "runtime": "N/A",
+        "vote_count": 17632,
+        "similarity_score": 20
+    },
+    "The Snow Queen": {
+        "title": "The Snow Queen",
+        "rating": 6.479,
+        "release_date": "1995-01-01",
+        "poster": "https://image.tmdb.org/t/p/w500/fF5mUf8i4h4nxL6aWOzcbwcnvvc.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/zMC3c29eMk4rvAlHSpagxE0wjN8.jpg",
+        "genres": [
+            "Animation",
+            "Family"
+        ],
+        "cast": [
+            {
+                "name": "Helen Mirren",
+                "image": "https://image.tmdb.org/t/p/w185/1reKRrsdsHXJaRVHVyOEg4oPTcZ.jpg"
+            },
+            {
+                "name": "David Jason",
+                "image": "https://image.tmdb.org/t/p/w185/hFkxO9DDoGRJWhHzk3vNyd6EZ2F.jpg"
+            },
+            {
+                "name": "Hugh Laurie",
+                "image": "https://image.tmdb.org/t/p/w185/akArncggHnusP5jxzMBKmJDRrMo.jpg"
+            },
+            {
+                "name": "Rik Mayall",
+                "image": "https://image.tmdb.org/t/p/w185/4y9wG8NbxpLwP1hym26Btg3Htx0.jpg"
+            },
+            {
+                "name": "Julia McKenzie",
+                "image": "https://image.tmdb.org/t/p/w185/kNQTuGDiu6s1A9yLqm4EjDmT8cd.jpg"
+            }
+        ],
+        "overview": "Far away, in her vast ice palace, the Snow Queen plots to rule the world by deflecting all the sun's warmth away from Earth so that it freezes over. But her mirror breaks, and on her mission to find all the missing pieces, she kidnaps Tom, who has part of the mirror in his body. Can his sister Ellie save Tom, and stop the evil Queen from achieving global dominance?",
+        "runtime": "N/A",
+        "vote_count": 24,
+        "similarity_score": 32
+    },
+    "The Legend of Suriyothai": {
+        "title": "The Legend of Suriyothai",
+        "rating": 5.8,
+        "release_date": "2001-08-17",
+        "poster": "https://image.tmdb.org/t/p/w500/t7dh4Ex3xBJ1nwiPpRGxgCTUa3Y.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/cQtFpE3cyWw2AWdRb5VGU9glOj8.jpg",
+        "genres": [
+            "Drama",
+            "Action"
+        ],
+        "cast": [
+            {
+                "name": "Piyapas Bhirombhakdi",
+                "image": "https://image.tmdb.org/t/p/w185/qc6qUaTE0NLaRVmS0vfycNetxdE.jpg"
+            },
+            {
+                "name": "Sarunyu Wongkrachang",
+                "image": "https://image.tmdb.org/t/p/w185/leCtOYaDA2YhjfEd6CpwKiMRupD.jpg"
+            },
+            {
+                "name": "Chatchai Plengpanich",
+                "image": "https://image.tmdb.org/t/p/w185/bVbKHjCvXONhLJBMaZzrggcK0wK.jpg"
+            },
+            {
+                "name": "Pongpat Wachirabunjong",
+                "image": "https://image.tmdb.org/t/p/w185/rNp5VmBr4T3ZaIaLyrViGAVP7Xt.jpg"
+            },
+            {
+                "name": "Johnny Anfone",
+                "image": "https://image.tmdb.org/t/p/w185/8StGZoj1msFRwGfeu8x3LHFgJoD.jpg"
+            }
+        ],
+        "overview": "During the 16th century, as Thailand contends with both a civil war and Burmese invasion, a beautiful princess rises up to help protect the glory of the Kingdom of Ayothaya. Based on the life of Queen Suriyothai.",
+        "runtime": "N/A",
+        "vote_count": 23,
+        "similarity_score": 21
+    },
+    "The Queen": {
+        "title": "The Queen",
+        "rating": 7.0,
+        "release_date": "2006-09-15",
+        "poster": "https://image.tmdb.org/t/p/w500/v08RH5Cx9EFAQMBWQuE5jHAgHYs.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/zpBl7qfBB1ir1BVNQtPlPwQ6IFd.jpg",
+        "genres": [
+            "Drama"
+        ],
+        "cast": [
+            {
+                "name": "Helen Mirren",
+                "image": "https://image.tmdb.org/t/p/w185/1reKRrsdsHXJaRVHVyOEg4oPTcZ.jpg"
+            },
+            {
+                "name": "Michael Sheen",
+                "image": "https://image.tmdb.org/t/p/w185/nGxIcIcfJjdPN3k8zFabtA1gRqL.jpg"
+            },
+            {
+                "name": "James Cromwell",
+                "image": "https://image.tmdb.org/t/p/w185/vpNQQbM5PtxsYmVm4oh79SGFyUK.jpg"
+            },
+            {
+                "name": "Helen McCrory",
+                "image": "https://image.tmdb.org/t/p/w185/dVtwKuGce3BhUcqfdpxFvpCT8YT.jpg"
+            },
+            {
+                "name": "Alex Jennings",
+                "image": "https://image.tmdb.org/t/p/w185/4nbbUmAwoOCarkR5FHJjzw2STPE.jpg"
+            }
+        ],
+        "overview": "The Queen is an intimate behind the scenes glimpse at the interaction between HM Elizabeth II and Prime Minister Tony Blair during their struggle, following the death of Diana, to reach a compromise between what was a private tragedy for the Royal family and the public's demand for an overt display of mourning.",
+        "runtime": "N/A",
+        "vote_count": 1433,
+        "similarity_score": 22
+    },
+    "Flatliners": {
+        "title": "Flatliners",
+        "rating": 6.509,
+        "release_date": "1990-08-10",
+        "poster": "https://image.tmdb.org/t/p/w500/wda3j7p7YHXKpFIlSzoTCtP7myF.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/kI1wLZdD5n28SknQaRIkSoSRfas.jpg",
+        "genres": [
+            "Drama",
+            "Sci-Fi",
+            "Horror"
+        ],
+        "cast": [],
+        "overview": "Five medical students experiment with \"near death\" experiences, until the dark consequences of past tragedies begin to jeopardize their lives.",
+        "runtime": "N/A",
+        "vote_count": 1745,
+        "similarity_score": 22
+    },
+    "Out of the Dark": {
+        "title": "Out of the Dark",
+        "rating": 6.919,
+        "release_date": "1995-07-06",
+        "poster": "https://image.tmdb.org/t/p/w500/fsx6xnk6KoZmslCbD7y6mLB2PHb.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/xEBeV6SBncFvVyn3bLiYyi2TwKT.jpg",
+        "genres": [
+            "Comedy",
+            "Horror"
+        ],
+        "cast": [
+            {
+                "name": "Stephen Chow",
+                "image": "https://image.tmdb.org/t/p/w185/j5DWs54BGZfp92G43c9OyHPvkNG.jpg"
+            },
+            {
+                "name": "Karen Mok Man-Wai",
+                "image": "https://image.tmdb.org/t/p/w185/b0scABsp11kvXx15RvolTUqucNm.jpg"
+            },
+            {
+                "name": "Lo Hung",
+                "image": "https://image.tmdb.org/t/p/w185/2gvwEDWVFc5QHLTSzLzrpHvxs2m.jpg"
+            },
+            {
+                "name": "Wong Yat-Fei",
+                "image": "https://image.tmdb.org/t/p/w185/eMpNYfWMxmIPWvDd1npajeDweI7.jpg"
+            },
+            {
+                "name": "Lee Kin-Yan",
+                "image": "https://image.tmdb.org/t/p/w185/xMd5r7sU8mip07LNO88EDO6nuoA.jpg"
+            }
+        ],
+        "overview": "After being haunted by evil spirits inside a residential building, a security guard seeks help from a mysterious exorcist, who turns out to be an escaped mental patient.",
+        "runtime": "N/A",
+        "vote_count": 105,
+        "similarity_score": 21
+    },
+    "The Last Exorcism": {
+        "title": "The Last Exorcism",
+        "rating": 5.686,
+        "release_date": "2010-08-27",
+        "poster": "https://image.tmdb.org/t/p/w500/eOo9tgGjxdsQEgqc6g7E1NL8460.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/fyNEA2BZ5Yixu6Wub9OtIqlmJBQ.jpg",
+        "genres": [
+            "Horror",
+            "Thriller",
+            "Mystery"
+        ],
+        "cast": [
+            {
+                "name": "Patrick Fabian",
+                "image": "https://image.tmdb.org/t/p/w185/bbsYGlnvGUTTExcabKL1OIhcKyZ.jpg"
+            },
+            {
+                "name": "Ashley Bell",
+                "image": "https://image.tmdb.org/t/p/w185/ccTdQ1pmVSVFoxzRDVeh5EAOWcZ.jpg"
+            },
+            {
+                "name": "Iris Bahr",
+                "image": "https://image.tmdb.org/t/p/w185/jsBU5eHvh8pWXFwMTGzGa8xJK3q.jpg"
+            },
+            {
+                "name": "Louis Herthum",
+                "image": "https://image.tmdb.org/t/p/w185/7QarKov7OLIKKv6m152rnEyOnfq.jpg"
+            },
+            {
+                "name": "Caleb Landry Jones",
+                "image": "https://image.tmdb.org/t/p/w185/8M5lPHrERwAIfWK56RkH30FOjhV.jpg"
+            }
+        ],
+        "overview": "After years of performing “exorcisms” and taking believers’ money, Reverend Marcus travels to rural Louisiana with a film crew so he can dispel what he believes is the myth of demonic possession. The dynamic reverend is certain that this will be another routine “exorcism” on a disturbed religious fanatic but instead comes upon the blood-soaked farm of the Sweetzer family and a true evil he would have never thought imaginable.",
+        "runtime": "N/A",
+        "vote_count": 1117,
+        "similarity_score": 21
+    },
+    "The Ring Two": {
+        "title": "The Ring Two",
+        "rating": 5.755,
+        "release_date": "2005-03-10",
+        "poster": "https://image.tmdb.org/t/p/w500/bHbz7z2pecTawhkqLpuC2m0qywe.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/A9myIvZ8Jvq0kP32ynx6bC1jZZp.jpg",
+        "genres": [
+            "Drama",
+            "Horror",
+            "Thriller"
+        ],
+        "cast": [
+            {
+                "name": "Naomi Watts",
+                "image": "https://image.tmdb.org/t/p/w185/mwel3q2EK4VZEZYur65kEYnzqsH.jpg"
+            },
+            {
+                "name": "Simon Baker",
+                "image": "https://image.tmdb.org/t/p/w185/oay0Lo2zl0lJdguptxgx1BK9Xq7.jpg"
+            },
+            {
+                "name": "David Dorfman",
+                "image": "https://image.tmdb.org/t/p/w185/6DoBfsNmZnbwGbjHXPTx1sVG48U.jpg"
+            },
+            {
+                "name": "Elizabeth Perkins",
+                "image": "https://image.tmdb.org/t/p/w185/vTWYllD9V76rgv9XAbtkkjjeunG.jpg"
+            },
+            {
+                "name": "Gary Cole",
+                "image": "https://image.tmdb.org/t/p/w185/uWsqIlfHbyxkmBJLmq2mR93musF.jpg"
+            }
+        ],
+        "overview": "After the ordeal with Samara, Rachel and Aiden move to a rural town. But soon Rachel learns about the death of a girl in a similar fashion. To save Aiden, she must dig into Samara's past even further.",
+        "runtime": "N/A",
+        "vote_count": 2474,
+        "similarity_score": 20
+    },
+    "They": {
+        "title": "They Will Kill You",
+        "rating": 7.003,
+        "release_date": "2026-03-25",
+        "poster": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/7IwBgIwoHtkQ0lYGbBbqKintSWx.jpg",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Horror"
+        ],
+        "cast": [
+            {
+                "name": "Zazie Beetz",
+                "image": "https://image.tmdb.org/t/p/w185/sgxzT54GnvgeMnOZgpQQx9csAdd.jpg"
+            },
+            {
+                "name": "Myha'la",
+                "image": "https://image.tmdb.org/t/p/w185/hRc3igngt5dkpM08i0a3z7gkYWa.jpg"
+            },
+            {
+                "name": "Paterson Joseph",
+                "image": "https://image.tmdb.org/t/p/w185/7CIVAl4HiuWrmp4r8Jk09sqxTBy.jpg"
+            },
+            {
+                "name": "Tom Felton",
+                "image": "https://image.tmdb.org/t/p/w185/etmtUBzJ1i1XJTLS6MkotJFE1se.jpg"
+            },
+            {
+                "name": "Heather Graham",
+                "image": "https://image.tmdb.org/t/p/w185/avYdNkeg1oTvmrNJbFDcTlBCkKs.jpg"
+            }
+        ],
+        "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
+        "runtime": "N/A",
+        "vote_count": 859,
+        "similarity_score": 19
+    },
+    "The Devil Inside": {
+        "title": "The Devil Inside",
+        "rating": 4.689,
+        "release_date": "2012-01-06",
+        "poster": "https://image.tmdb.org/t/p/w500/mtyFRIRBmrCE2XKU5EnEK8dtu2X.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/5Ao48b5Fo3yBj5jHuQlpsLaC9JR.jpg",
+        "genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "cast": [
+            {
+                "name": "Fernanda Andrade",
+                "image": "https://image.tmdb.org/t/p/w185/tXbeS1OnVKwC2BxXl4rNQjH0rh4.jpg"
+            },
+            {
+                "name": "Simon Quarterman",
+                "image": "https://image.tmdb.org/t/p/w185/m9U1BfmPT9XJLizKaWb7mp9IZje.jpg"
+            },
+            {
+                "name": "Evan Helmuth",
+                "image": "https://image.tmdb.org/t/p/w185/xMl0uxmhCfhTkhDoA54jbbfObZE.jpg"
+            },
+            {
+                "name": "Ionut Grama",
+                "image": "https://image.tmdb.org/t/p/w185/o6lu5fApGmDpEHSO8wnEJMgCHFU.jpg"
+            },
+            {
+                "name": "Suzan Crowley",
+                "image": "https://image.tmdb.org/t/p/w185/s7hfHrdTkKZG2YO4FRf8U27puWp.jpg"
+            }
+        ],
+        "overview": "In Italy, a woman becomes involved in a series of unauthorized exorcisms during her mission to discover what happened to her mother, who allegedly murdered three people during her own exorcism.",
+        "runtime": "N/A",
+        "vote_count": 848,
+        "similarity_score": 19
+    },
+    "Raising Helen": {
+        "title": "Raising Helen",
+        "rating": 6.137,
+        "release_date": "2004-05-27",
+        "poster": "https://image.tmdb.org/t/p/w500/ubZin4oGXYp6hCn3WU6nrBre62y.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/lw5YfNEZaxWo7Q7sn76bLUlyAhi.jpg",
+        "genres": [
+            "Drama",
+            "Comedy"
+        ],
+        "cast": [
+            {
+                "name": "Kate Hudson",
+                "image": "https://image.tmdb.org/t/p/w185/s79lH1QzEg2fkXULKBxRmU9aNr8.jpg"
+            },
+            {
+                "name": "John Corbett",
+                "image": "https://image.tmdb.org/t/p/w185/iXKGteGZA3VTh88LBw4pXJY6cam.jpg"
+            },
+            {
+                "name": "Joan Cusack",
+                "image": "https://image.tmdb.org/t/p/w185/59UIeHZFYrKyP20lXqijtfTXglO.jpg"
+            },
+            {
+                "name": "Hayden Panettiere",
+                "image": "https://image.tmdb.org/t/p/w185/bhGkVHCFu8peC4rIXIUMWCQqZR7.jpg"
+            },
+            {
+                "name": "Spencer Breslin",
+                "image": "https://image.tmdb.org/t/p/w185/jqZRcEjEt3iodgXoGOZUaahozjm.jpg"
+            }
+        ],
+        "overview": "Helen Harris has a glamorous, big-city life working for one of New York's hottest modeling agencies. But suddenly her free-spirited life gets turned upside down when she must chose between the life she's always loved, and the new loves of her life!",
+        "runtime": "N/A",
+        "vote_count": 687,
+        "similarity_score": 19
+    },
+    "The Haunting in Connecticut 2: Ghosts of Georgia": {
+        "title": "The Haunting in Connecticut 2: Ghosts of Georgia",
+        "rating": 5.808,
+        "release_date": "2013-02-01",
+        "poster": "https://image.tmdb.org/t/p/w500/fBuk4jsOUjjjxCqS6rPgMKi1RB0.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/jE1CpCE4tVLmU1dbVz5hC1mjmXC.jpg",
+        "genres": [
+            "Horror",
+            "Drama",
+            "Thriller"
+        ],
+        "cast": [
+            {
+                "name": "Chad Michael Murray",
+                "image": "https://image.tmdb.org/t/p/w185/jIkzUQUVLkgn3HFMFRJBDAD0OLj.jpg"
+            },
+            {
+                "name": "Katee Sackhoff",
+                "image": "https://image.tmdb.org/t/p/w185/kzcwfDDrgXnVgyTfcpG0obOn7Qk.jpg"
+            },
+            {
+                "name": "Abigail Spencer",
+                "image": "https://image.tmdb.org/t/p/w185/uf96FDHVoFMwoiP5He4SPLCmwri.jpg"
+            },
+            {
+                "name": "Cicely Tyson",
+                "image": "https://image.tmdb.org/t/p/w185/iaQjeWcfENq6WYbQK078Vwrb8qf.jpg"
+            },
+            {
+                "name": "Emily Alyn Lind",
+                "image": "https://image.tmdb.org/t/p/w185/oyamam9VmA6KsBCNUPLK8BfseVH.jpg"
+            }
+        ],
+        "overview": "A young family moves into a historic home in Georgia, only to learn they are not the house's only inhabitants. Soon they find themselves in the presence of a secret rising from underground and threatening to bring down anyone in its path.",
+        "runtime": "N/A",
+        "vote_count": 560,
+        "similarity_score": 18
+    },
+    "Deliver Us from Evil": {
+        "title": "Deliver Us from Evil",
+        "rating": 6.256,
+        "release_date": "2014-07-01",
+        "poster": "https://image.tmdb.org/t/p/w500/Uz32ERsyCmGwV8Eg2wmT2ooWpo.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/JFQJDXEHnZmfJC1sWNbIrz0WS7.jpg",
+        "genres": [
+            "Thriller",
+            "Crime",
+            "Horror"
+        ],
+        "cast": [
+            {
+                "name": "Eric Bana",
+                "image": "https://image.tmdb.org/t/p/w185/l9yoDgw3YFC2gMD1HTo5djGOwSY.jpg"
+            },
+            {
+                "name": "Olivia Munn",
+                "image": "https://image.tmdb.org/t/p/w185/ha4W3WfxBopQK2FZmVochNrN1GT.jpg"
+            },
+            {
+                "name": "Edgar Ramírez",
+                "image": "https://image.tmdb.org/t/p/w185/o9xJcedad1BwpMcgDGtW5dVgzH.jpg"
+            },
+            {
+                "name": "Joel McHale",
+                "image": "https://image.tmdb.org/t/p/w185/7iwIiaYhIPaiAyiaZOc2Gl1ZAY4.jpg"
+            },
+            {
+                "name": "Sean Harris",
+                "image": "https://image.tmdb.org/t/p/w185/jouyaTu0UuZMNBrADRRkCQX1VX1.jpg"
+            }
+        ],
+        "overview": "When a frightening wave of violence sweeps through New York City, troubled cop Sarchie fails to find a rational explanation for the bizarre crimes. However, his eyes are opened to a frightening alternate reality when renegade Jesuit priest Mendoza convinces him that demonic possession may be to blame for the gruesome murders. Together, they wage a valiant supernatural struggle to rid the city of an otherworldly evil.",
+        "runtime": "N/A",
+        "vote_count": 2245,
+        "similarity_score": 19
+    },
+    "Mirrors": {
+        "title": "Mirrors",
+        "rating": 6.281,
+        "release_date": "2008-08-14",
+        "poster": "https://image.tmdb.org/t/p/w500/bt5a4ThyLpLTsia2e2ZTLzQjXO0.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/9zMbyilain3lcbX16fZwEkIBMLB.jpg",
+        "genres": [
+            "Horror",
+            "Mystery"
+        ],
+        "cast": [
+            {
+                "name": "Kiefer Sutherland",
+                "image": "https://image.tmdb.org/t/p/w185/tK5zjdvao2NELns3bqT7PPqPeJI.jpg"
+            },
+            {
+                "name": "Paula Patton",
+                "image": "https://image.tmdb.org/t/p/w185/afEkMmwkHkmBsOHeor2vZKWzeGf.jpg"
+            },
+            {
+                "name": "Amy Smart",
+                "image": "https://image.tmdb.org/t/p/w185/9GQwkmqd5klfXvhd29YI5OKAx3N.jpg"
+            },
+            {
+                "name": "Jason Flemyng",
+                "image": "https://image.tmdb.org/t/p/w185/nYl0180ACnLzVlGbaAfuPtdGr9K.jpg"
+            },
+            {
+                "name": "Cameron Boyce",
+                "image": "https://image.tmdb.org/t/p/w185/dtONrW7kQ9DFyduL0W1YPawkGYs.jpg"
+            }
+        ],
+        "overview": "An ex-cop and his family are the target of an evil force that is using mirrors as a gateway into their home.",
+        "runtime": "N/A",
+        "vote_count": 2044
+    },
+    "The Conjuring": {
+        "title": "The Conjuring",
+        "rating": 7.541,
+        "release_date": "2013-07-18",
+        "poster": "https://image.tmdb.org/t/p/w500/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/ecKQlAEG95k62SMGhvX83oEqANK.jpg",
+        "genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "cast": [
+            {
+                "name": "Vera Farmiga",
+                "image": "https://image.tmdb.org/t/p/w185/5Vs7huBmTKftwlsc2BPAntyaQYj.jpg"
+            },
+            {
+                "name": "Patrick Wilson",
+                "image": "https://image.tmdb.org/t/p/w185/oym6H2QD9esk4yABjCHaUoNAOa8.jpg"
+            },
+            {
+                "name": "Lili Taylor",
+                "image": "https://image.tmdb.org/t/p/w185/vWcMUi3QyvCr3QuFbjtwyPx7WtU.jpg"
+            },
+            {
+                "name": "Ron Livingston",
+                "image": "https://image.tmdb.org/t/p/w185/pr5CjWnkaf5WKTIYh8wtNufjmyb.jpg"
+            },
+            {
+                "name": "Hayley McFarland",
+                "image": "https://image.tmdb.org/t/p/w185/mapxc0eyuNFqj9IybLmMIofhuzF.jpg"
+            }
+        ],
+        "overview": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives.",
+        "runtime": "N/A",
+        "vote_count": 12796,
+        "similarity_score": 35
+    },
+    "Insidious: Chapter 2": {
+        "title": "Insidious: Chapter 2",
+        "rating": 6.682,
+        "release_date": "2013-09-12",
+        "poster": "https://image.tmdb.org/t/p/w500/w5JjiB3O1CLDXbTJe1QpU5RHmlU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/i9oyhCYxIYH2082J0Rc3a3jQjRB.jpg",
+        "genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "cast": [
+            {
+                "name": "Patrick Wilson",
+                "image": "https://image.tmdb.org/t/p/w185/oym6H2QD9esk4yABjCHaUoNAOa8.jpg"
+            },
+            {
+                "name": "Rose Byrne",
+                "image": "https://image.tmdb.org/t/p/w185/4Vd7w19asuBfUGgz0NIuQI5wxIA.jpg"
+            },
+            {
+                "name": "Lin Shaye",
+                "image": "https://image.tmdb.org/t/p/w185/aL87Za52elH81zMiXQn5C7AXAeg.jpg"
+            },
+            {
+                "name": "Ty Simpkins",
+                "image": "https://image.tmdb.org/t/p/w185/8FyJcMFmPdCSfz2Zc5ZcAKrIorj.jpg"
+            },
+            {
+                "name": "Barbara Hershey",
+                "image": "https://image.tmdb.org/t/p/w185/6swwfge3HlvyBVRSNwroFtMcgNB.jpg"
+            }
+        ],
+        "overview": "The haunted Lambert family seeks to uncover the mysterious childhood secret that has left them dangerously connected to the spirit world.",
+        "runtime": "N/A",
+        "vote_count": 4601,
+        "similarity_score": 25
+    },
+    "Mamma Mia!": {
+        "title": "Mamma Mia!",
+        "rating": 6.966,
+        "release_date": "2008-07-03",
+        "poster": "https://image.tmdb.org/t/p/w500/zdUA4FNHbXPadzVOJiU0Rgn6cHR.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/90sDsHugeRU5dtTG3zEVIOXXl4L.jpg",
+        "genres": [
+            "Comedy"
+        ],
+        "cast": [
+            {
+                "name": "Amanda Seyfried",
+                "image": "https://image.tmdb.org/t/p/w185/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg"
+            },
+            {
+                "name": "Meryl Streep",
+                "image": "https://image.tmdb.org/t/p/w185/g5cVxQBAQ3AXt3LhdBXtbbN47Uc.jpg"
+            },
+            {
+                "name": "Pierce Brosnan",
+                "image": "https://image.tmdb.org/t/p/w185/dzXVwwJLPwiZeXOnf7YxorqVEEM.jpg"
+            },
+            {
+                "name": "Colin Firth",
+                "image": "https://image.tmdb.org/t/p/w185/4VBeYEUQbfhnivdkqInM36u5fda.jpg"
+            },
+            {
+                "name": "Stellan Skarsgård",
+                "image": "https://image.tmdb.org/t/p/w185/mW7xmtGV4y79kQGn0zkKVGDMAmw.jpg"
+            }
+        ],
+        "overview": "A spirited young bride-to-be living with her single mother on a small Greek island secretly invites three of her mother's ex-boyfriends in hope of finding her biological father to walk her down the aisle.",
+        "runtime": "N/A",
+        "vote_count": 7034,
+        "similarity_score": 25
+    },
+    "About a Boy": {
+        "title": "About a Boy",
+        "rating": 6.696,
+        "release_date": "2002-04-26",
+        "poster": "https://image.tmdb.org/t/p/w500/qoZ1bD0q9EFqcNiEYbEigsRcNCt.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/xxiPjhXigJ4zPiqqrA77FK10ULo.jpg",
+        "genres": [
+            "Drama",
+            "Comedy"
+        ],
+        "cast": [
+            {
+                "name": "Hugh Grant",
+                "image": "https://image.tmdb.org/t/p/w185/dvV843fOuzsEPXHtFvdzsHpy1rC.jpg"
+            },
+            {
+                "name": "Nicholas Hoult",
+                "image": "https://image.tmdb.org/t/p/w185/pXm8GWTm9eIA8pUGOjvmYjlxamu.jpg"
+            },
+            {
+                "name": "Toni Collette",
+                "image": "https://image.tmdb.org/t/p/w185/lzXRh16qe4HHeBN6tMyw0DHvaMn.jpg"
+            },
+            {
+                "name": "Rachel Weisz",
+                "image": "https://image.tmdb.org/t/p/w185/9tfHL5tholha1YF6bSKt422ETPM.jpg"
+            },
+            {
+                "name": "Natalia Tena",
+                "image": "https://image.tmdb.org/t/p/w185/7kN9NpECZoR4NLXb4SlpHOaJx7T.jpg"
+            }
+        ],
+        "overview": "Will Freeman is a good-looking, smooth-talking bachelor whose primary goal in life is avoiding any kind of responsibility. But when he invents an imaginary son in order to meet attractive single moms, Will gets a hilarious lesson about life from a bright, but hopelessly geeky 12-year-old named Marcus. Now, as Will struggles to teach Marcus the art of being cool, Marcus teaches Will that you're never too old to grow up.",
+        "runtime": "N/A",
+        "vote_count": 2420,
+        "similarity_score": 23
+    },
+    "Insidious": {
+        "title": "Insidious Inferno",
+        "rating": 5.364,
+        "release_date": "2024-11-29",
+        "poster": "https://image.tmdb.org/t/p/w500/8kljUAovBatZRYp2ye2RZr239hU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/8HbNKB2pMiD3mfLgbxe7DgAKjdS.jpg",
+        "genres": [
+            "Horror"
+        ],
+        "cast": [
+            {
+                "name": "Stephanie Leet",
+                "image": null
+            },
+            {
+                "name": "Neil Green",
+                "image": null
+            },
+            {
+                "name": "Chynna Rae Shurts",
+                "image": "https://image.tmdb.org/t/p/w185/grxwhkVW9wux9VhLjNYAWdU5YPP.jpg"
+            },
+            {
+                "name": "Steve Larkin",
+                "image": null
+            },
+            {
+                "name": "Erik Skybak",
+                "image": "https://image.tmdb.org/t/p/w185/yZ1mnUq3RFlPj1xrlD79oENyKi1.jpg"
+            }
+        ],
+        "overview": "A secluded cottage is plagued by gruesome murders and unbeknownst to the inhabitants something other worldly lurks within the halls. Can the couple solve the mystery of the cursed grounds in time or will they open the door to the inferno?",
+        "runtime": "N/A",
+        "vote_count": 22,
+        "similarity_score": 23
+    },
+    "The Perfect Man": {
+        "title": "The Perfect Man",
+        "rating": 6.152,
+        "release_date": "2005-06-17",
+        "poster": "https://image.tmdb.org/t/p/w500/s1zaWMtjzw1hm5tPXm2GLFJaCfY.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/jOmtQf0U1n0cuuahsPBGxR5lXvE.jpg",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ],
+        "cast": [
+            {
+                "name": "Hilary Duff",
+                "image": "https://image.tmdb.org/t/p/w185/2CCWB8ow2S1jxTrajq1YKOubFGN.jpg"
+            },
+            {
+                "name": "Heather Locklear",
+                "image": "https://image.tmdb.org/t/p/w185/rIvuZwIMRkwSVGMza7Tm2yBXD5g.jpg"
+            },
+            {
+                "name": "Chris Noth",
+                "image": "https://image.tmdb.org/t/p/w185/9awGeDN5MSbSefDMAyMglm96vcy.jpg"
+            },
+            {
+                "name": "Mike O'Malley",
+                "image": "https://image.tmdb.org/t/p/w185/q5T34bdF9BhQ6N95I8b6pzUM8KQ.jpg"
+            },
+            {
+                "name": "Ben Feldman",
+                "image": "https://image.tmdb.org/t/p/w185/neArGlsh50NtcGzUM99Puz6TrFX.jpg"
+            }
+        ],
+        "overview": "Holly is tired of moving every time her mom Jean breaks up with yet another second-rate guy. To distract her mother from her latest bad choice, Holly conceives the perfect plan for the perfect man, an imaginary secret admirer who will romance Jean and boost her self-esteem.",
+        "runtime": "N/A",
+        "vote_count": 815,
+        "similarity_score": 19
+    },
+    "Sinister 2": {
+        "title": "Sinister 2",
+        "rating": 5.896,
+        "release_date": "2015-08-19",
+        "poster": "https://image.tmdb.org/t/p/w500/hF6ORyihtAWHqKkIQI8BSpLQyON.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/iQY3kJ2oqHqmcSm32xPfkFF4xW9.jpg",
+        "genres": [
+            "Horror"
+        ],
+        "cast": [
+            {
+                "name": "James Ransone",
+                "image": "https://image.tmdb.org/t/p/w185/n1O0RnxKPfxvVJUh13Gr0pPGlvd.jpg"
+            },
+            {
+                "name": "Shannyn Sossamon",
+                "image": "https://image.tmdb.org/t/p/w185/h7oiKMaoq0J5DM3PBZxffF9uJo4.jpg"
+            },
+            {
+                "name": "Robert Daniel Sloan",
+                "image": "https://image.tmdb.org/t/p/w185/laUEnswsTuYCMn3CDm1yGJcQzLx.jpg"
+            },
+            {
+                "name": "Dartanian Sloan",
+                "image": "https://image.tmdb.org/t/p/w185/mElpXeJ19973CRAfPojZlyFvG8n.jpg"
+            },
+            {
+                "name": "Tate Ellington",
+                "image": "https://image.tmdb.org/t/p/w185/oEVLDskW1iyC06VAdnNdqKpHosy.jpg"
+            }
+        ],
+        "overview": "A young mother and her twin sons move into a rural house that's marked for death.",
+        "runtime": "N/A",
+        "vote_count": 2306
+    },
+    "Exorcist II: The Heretic": {
+        "title": "Exorcist II: The Heretic",
+        "rating": 4.55,
+        "release_date": "1977-06-17",
+        "poster": "https://image.tmdb.org/t/p/w500/g9i3LTMYLRHvCYSKimZEfd1Vqy7.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/wyRJPq5lUy7V5ETiiwihff9wl3G.jpg",
+        "genres": [
+            "Horror"
+        ],
+        "cast": [
+            {
+                "name": "Richard Burton",
+                "image": "https://image.tmdb.org/t/p/w185/j8yRSo6S2bnYubKZTBUvD7fuOyX.jpg"
+            },
+            {
+                "name": "Linda Blair",
+                "image": "https://image.tmdb.org/t/p/w185/diMBw4RF5HIFnBak6C2Obq3n2Dt.jpg"
+            },
+            {
+                "name": "Louise Fletcher",
+                "image": "https://image.tmdb.org/t/p/w185/hN15em5LqXqDe1QgDa6lXK9fx3z.jpg"
+            },
+            {
+                "name": "Max von Sydow",
+                "image": "https://image.tmdb.org/t/p/w185/u16BsGyT6v9yuO7wWAF62NayDth.jpg"
+            },
+            {
+                "name": "Kitty Winn",
+                "image": "https://image.tmdb.org/t/p/w185/9qO3EfnwYkiuol2z8jzetCIR92f.jpg"
+            }
+        ],
+        "overview": "Bizarre nightmares plague Regan MacNeil four years after her possession and exorcism. Has the demon returned? And if so, can the combined faith and knowledge of a Vatican investigator and a research specialist free her from its grasp?",
+        "runtime": "N/A",
+        "vote_count": 798,
+        "similarity_score": 22
+    },
+    "Spanglish": {
+        "title": "Spanglish",
+        "rating": 6.048,
+        "release_date": "2004-12-17",
+        "poster": "https://image.tmdb.org/t/p/w500/x3OTaBvjqzhRL53Q39fOoIYqxyO.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/uXJgpBBOxD21X5Q93bZmjNHHdGA.jpg",
+        "genres": [
+            "Drama",
+            "Comedy"
+        ],
+        "cast": [
+            {
+                "name": "Adam Sandler",
+                "image": "https://image.tmdb.org/t/p/w185/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
+            },
+            {
+                "name": "Téa Leoni",
+                "image": "https://image.tmdb.org/t/p/w185/vWijsKTlNs9bgKdUVgsr2w4msGo.jpg"
+            },
+            {
+                "name": "Paz Vega",
+                "image": "https://image.tmdb.org/t/p/w185/fNLlJysFd5f0Q8Lj20EZpU8BiRN.jpg"
+            },
+            {
+                "name": "Cloris Leachman",
+                "image": "https://image.tmdb.org/t/p/w185/o8pnV9urjuHZDAR2u4UjPy2CR1u.jpg"
+            },
+            {
+                "name": "Shelbie Bruce",
+                "image": "https://image.tmdb.org/t/p/w185/3WIFI11RQp1r4HlCXyHL6jObDrw.jpg"
+            }
+        ],
+        "overview": "Mexican immigrant and single mother Flor Moreno finds housekeeping work with Deborah and John Clasky, a well-off couple with two children of their own. When Flor admits she can't handle the schedule because of her daughter, Cristina, Deborah decides they should move into the Clasky home. Cultures clash and tensions run high as Flor and the Claskys struggle to share space while raising their children on their own, and very different, terms.",
+        "runtime": "N/A",
+        "vote_count": 1397,
+        "similarity_score": 20
+    },
+    "Kites": {
+        "title": "Kites",
+        "rating": 7.197,
+        "release_date": "2010-05-21",
+        "poster": "https://image.tmdb.org/t/p/w500/lYJhUIsKtlke4gNNHkYZNppYlTZ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/iBbMy4mxmdxDOLm8HTb412qMacg.jpg",
+        "genres": [
+            "Drama",
+            "Action"
+        ],
+        "cast": [
+            {
+                "name": "Hrithik Roshan",
+                "image": "https://image.tmdb.org/t/p/w185/5O7WrWe84WDFj7td64NVsobtHf3.jpg"
+            },
+            {
+                "name": "Bárbara Mori",
+                "image": "https://image.tmdb.org/t/p/w185/y82o82y52BoKvFCMHG3R3Ahv43O.jpg"
+            },
+            {
+                "name": "Kabir Bedi",
+                "image": "https://image.tmdb.org/t/p/w185/jTvXd0iXyKa9KBBFOxt9DASK5QG.jpg"
+            },
+            {
+                "name": "Kangana Ranaut",
+                "image": "https://image.tmdb.org/t/p/w185/GmIRKLKP3xEx1mgF7VrFurIEbz.jpg"
+            },
+            {
+                "name": "Nicholas Brown",
+                "image": "https://image.tmdb.org/t/p/w185/v1FPnpfquoxth9OrW2P5IfDK4Uj.jpg"
+            }
+        ],
+        "overview": "A wounded man searches for his sweetheart in the Mexican desert while on the run from the police, bounty hunters, and others.",
+        "runtime": "N/A",
+        "vote_count": 223,
+        "similarity_score": 31
+    },
+    "Futuro Beach": {
+        "title": "Futuro Beach",
+        "rating": 6.5,
+        "release_date": "2014-05-01",
+        "poster": "https://image.tmdb.org/t/p/w500/lologg70UiUMok8ijdSfDzBwR0N.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/AuzyTuRHzmS78cP6pR9SgDQC6ys.jpg",
+        "genres": [
+            "Drama"
+        ],
+        "cast": [
+            {
+                "name": "Wagner Moura",
+                "image": "https://image.tmdb.org/t/p/w185/53IbAed4t1dOWxY3iygbRYZBBnm.jpg"
+            },
+            {
+                "name": "Clemens Schick",
+                "image": "https://image.tmdb.org/t/p/w185/3ANnyM49vTvcT9MyyVvjl5UAdpj.jpg"
+            },
+            {
+                "name": "Jesuíta Barbosa",
+                "image": "https://image.tmdb.org/t/p/w185/oaHrZmwIrevxDAmduTbAaHoOXD8.jpg"
+            },
+            {
+                "name": "Sávio Ygor Ramos",
+                "image": null
+            },
+            {
+                "name": "Sophie Charlotte Conrad",
+                "image": "https://image.tmdb.org/t/p/w185/zVDCp1ilx9nm51d51RxPvOtcT0B.jpg"
+            }
+        ],
+        "overview": "Donato fails in his attempt to save a drowning man, and meets one of the man's friends. He decides to start his life over, but pieces of his past keep coming after him.",
+        "runtime": "N/A",
+        "vote_count": 88,
+        "similarity_score": 30
+    },
+    "This Is Martin Bonner": {
+        "title": "This Is Martin Bonner",
+        "rating": 5.0,
+        "release_date": "2013-06-28",
+        "poster": "https://image.tmdb.org/t/p/w500/mN96fbXB92XQGKLS28W7PQRhAA8.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/oJLsq1Vv62knKfXYwuGPbXpEwNq.jpg",
+        "genres": [
+            "Drama"
+        ],
+        "cast": [
+            {
+                "name": "Paul Eenhoorn",
+                "image": null
+            },
+            {
+                "name": "Richmond Arquette",
+                "image": "https://image.tmdb.org/t/p/w185/7byGiVac0GjBSVD1h6ylZlVXZK6.jpg"
+            },
+            {
+                "name": "Sam Buchanan",
+                "image": "https://image.tmdb.org/t/p/w185/xkzRxZMSLABHtMXrVKDGpOcgbtM.jpg"
+            },
+            {
+                "name": "Robert Longstreet",
+                "image": "https://image.tmdb.org/t/p/w185/j9e2HBqicMM59lErK8pL94Jh59v.jpg"
+            },
+            {
+                "name": "Kristin Slaysman",
+                "image": "https://image.tmdb.org/t/p/w185/oLxqVMQnRy354oTYUodPcRUZXHa.jpg"
+            }
+        ],
+        "overview": "Martin Bonner has just moved to Nevada from the East Coast, leaving behind his two adult children and a life he spent more than two decades building. He's there working a new job as the volunteer coordinator for a non-profit organization that helps prisoners make the transition from incarceration to freedom. It's Martin's first job in two years and he's recently declared bankruptcy. At the same time, Travis Holloway, a prisoner in the program, is being released after serving twelve years. Sent back into the world with nothing, Travis also finds life in Reno difficult to adjust to, despite the help from his program sponsor, Steve Helms. The stories of Martin and Travis slowly converge, as the two men meet and find that they have much in common, not the least of which is an unspoken need for encouragement and support.",
+        "runtime": "N/A",
+        "vote_count": 18,
+        "similarity_score": 30
+    },
+    "The Claim": {
+        "title": "The Claim",
+        "rating": 6.0,
+        "release_date": "2000-12-29",
+        "poster": "https://image.tmdb.org/t/p/w500/drpLBTmnMOzDUVAd3jqeLjdolcf.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/aWvmJrHlKL34bue1OJzC2lm9arW.jpg",
+        "genres": [
+            "Drama"
+        ],
+        "cast": [
+            {
+                "name": "Peter Mullan",
+                "image": "https://image.tmdb.org/t/p/w185/dvu5PWJK6Vv4xnYyMzdMvH73Laj.jpg"
+            },
+            {
+                "name": "Milla Jovovich",
+                "image": "https://image.tmdb.org/t/p/w185/usWnHCzbADijULREZYSJ0qfM00y.jpg"
+            },
+            {
+                "name": "Wes Bentley",
+                "image": "https://image.tmdb.org/t/p/w185/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
+            },
+            {
+                "name": "Nastassja Kinski",
+                "image": "https://image.tmdb.org/t/p/w185/svYrIUXH59Dd9wp9HBpS1ASvRAu.jpg"
+            },
+            {
+                "name": "Sarah Polley",
+                "image": "https://image.tmdb.org/t/p/w185/kQEyOfhp72yM4t6uo16ypSXfVX1.jpg"
+            }
+        ],
+        "overview": "A prospector sells his wife and daughter to another gold miner for the rights to a gold mine. Twenty years later, the prospector is a wealthy man who owns much of the old west town named Kingdom Come. But changes are brewing and his past is coming back to haunt him. A surveyor and his crew scouts the town as a location for a new railroad line and a young woman suddenly appears in the town and is evidently the man's daughter.",
+        "runtime": "N/A",
+        "vote_count": 111,
+        "similarity_score": 29
+    },
+    "Copying Beethoven": {
+        "title": "Copying Beethoven",
+        "rating": 6.465,
+        "release_date": "2006-09-10",
+        "poster": "https://image.tmdb.org/t/p/w500/xplAbPXhZF9B3H4OnhjQsEKUESe.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/7b3cLZjiOIR8pqjnF2g2GkBwcZ4.jpg",
+        "genres": [
+            "Drama"
+        ],
+        "cast": [],
+        "overview": "A fictionalised exploration of Beethoven's life in his final days working on his Ninth Symphony. It is 1824. Beethoven is racing to finish his new symphony. However, it has been years since his last success and he is plagued by deafness, loneliness and personal trauma. A copyist is urgently needed to help the composer. A fictional character is introduced in the form of a young conservatory student and aspiring composer named Anna Holtz. The mercurial Beethoven is skeptical that a woman might become involved in his masterpiece but slowly comes to trust in Anna's assistance and in the end becomes quite fond of her. By the time the piece is performed, her presence in his life is an absolute necessity. Her deep understanding of his work is such that she even corrects mistakes he has made, while her passionate personality opens a door into his private world.",
+        "runtime": "N/A",
+        "vote_count": 186,
+        "similarity_score": 29
+    },
+    "The Brothers Bloom": {
+        "title": "The Brothers Bloom",
+        "rating": 6.556,
+        "release_date": "2008-09-09",
+        "poster": "https://image.tmdb.org/t/p/w500/xIz8iwzyjgWGzcIwHKpqhBs77ML.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/pPoaq7dEGA2xP1FNXTCECRuG4JS.jpg",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Drama"
+        ],
+        "cast": [
+            {
+                "name": "Adrien Brody",
+                "image": "https://image.tmdb.org/t/p/w185/qBc7ahQrpVpcllaZ5hkivsOEb3C.jpg"
+            },
+            {
+                "name": "Rachel Weisz",
+                "image": "https://image.tmdb.org/t/p/w185/9tfHL5tholha1YF6bSKt422ETPM.jpg"
+            },
+            {
+                "name": "Mark Ruffalo",
+                "image": "https://image.tmdb.org/t/p/w185/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+            },
+            {
+                "name": "Rinko Kikuchi",
+                "image": "https://image.tmdb.org/t/p/w185/lv4UuorZtC37VaFAHO205u4lS73.jpg"
+            },
+            {
+                "name": "Robbie Coltrane",
+                "image": "https://image.tmdb.org/t/p/w185/jOHs3xvlwRiiG2CLtso5zzmGCXg.jpg"
+            }
+        ],
+        "overview": "The Brothers Bloom are the best con men in the world, swindling millionaires with complex scenarios of lust and intrigue. Now they've decided to take on one last job – showing a beautiful and eccentric heiress the time of her life with a romantic adventure that takes them around the world.",
+        "runtime": "N/A",
+        "vote_count": 709,
+        "similarity_score": 28
+    },
+    "Chuck & Buck": {
+        "title": "Chuck & Buck",
+        "rating": 6.042,
+        "release_date": "2000-07-14",
+        "poster": "https://image.tmdb.org/t/p/w500/k0GY9haWiwZtBOf2T7winwNcsep.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/njRm7HrrVnLenW16SGpcVznQE0f.jpg",
+        "genres": [
+            "Drama",
+            "Comedy"
+        ],
+        "cast": [
+            {
+                "name": "Mike White",
+                "image": "https://image.tmdb.org/t/p/w185/eJpW9GKmWh0W7enmjjZQ8MIEzoI.jpg"
+            },
+            {
+                "name": "Chris Weitz",
+                "image": "https://image.tmdb.org/t/p/w185/u0zSPgtetcsRpqwUqNtVkBYPAnU.jpg"
+            },
+            {
+                "name": "Lupe Ontiveros",
+                "image": "https://image.tmdb.org/t/p/w185/bFlpBo46W4KXQVNspvPTUhZvsmQ.jpg"
+            },
+            {
+                "name": "Beth Colt",
+                "image": null
+            },
+            {
+                "name": "Paul Weitz",
+                "image": "https://image.tmdb.org/t/p/w185/54Np4lBqGM36uwpzRc4KztJxGJz.jpg"
+            }
+        ],
+        "overview": "Chuck and Buck are childhood best friends whose lives have taken very different paths. While Chuck moved away and now has a real life, Buck stayed behind and developed a dangerous fixation—on Chuck's life.",
+        "runtime": "N/A",
+        "vote_count": 71,
+        "similarity_score": 28
+    },
+    "Two Lovers": {
+        "title": "Two Lovers",
+        "rating": 6.867,
+        "release_date": "2008-11-19",
+        "poster": "https://image.tmdb.org/t/p/w500/skwYEUcxhUub9QCSwPDMvBySphS.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/2ZLBfF8khUDSWBWKPPxxocYFS4c.jpg",
+        "genres": [
+            "Drama"
+        ],
+        "cast": [
+            {
+                "name": "Joaquin Phoenix",
+                "image": "https://image.tmdb.org/t/p/w185/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg"
+            },
+            {
+                "name": "Gwyneth Paltrow",
+                "image": "https://image.tmdb.org/t/p/w185/r4wbWWEEjmtRFZ0GU10XbLTgp47.jpg"
+            },
+            {
+                "name": "Vinessa Shaw",
+                "image": "https://image.tmdb.org/t/p/w185/qqSpAMH1lYMNxnHkDHB1JpNa086.jpg"
+            },
+            {
+                "name": "Isabella Rossellini",
+                "image": "https://image.tmdb.org/t/p/w185/ebcTowZoBZCDxaWd5ZrL2ZR5mQ3.jpg"
+            },
+            {
+                "name": "Moni Moshonov",
+                "image": "https://image.tmdb.org/t/p/w185/9JigKYNNFDr0fx2k4toOY0J3mZq.jpg"
+            }
+        ],
+        "overview": "A depressed man moves back in with his parents following a recent heartbreak and finds himself with two women.",
+        "runtime": "N/A",
+        "vote_count": 927,
+        "similarity_score": 27
+    },
+    "Synecdoche, New York": {
+        "title": "Synecdoche, New York",
+        "rating": 7.536,
+        "release_date": "2008-10-24",
+        "poster": "https://image.tmdb.org/t/p/w500/5UwdhrjXhUgsiDhe1dpS9z4yj7q.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/insPcjOIWFf6Uc9DR0ORgXATqSM.jpg",
+        "genres": [
+            "Drama"
+        ],
+        "cast": [
+            {
+                "name": "Philip Seymour Hoffman",
+                "image": "https://image.tmdb.org/t/p/w185/50rqDkmvXwjwVhFH7q6ph2Rkw7S.jpg"
+            },
+            {
+                "name": "Samantha Morton",
+                "image": "https://image.tmdb.org/t/p/w185/v84b7MENeD9rwX6xTD7fSdhSOC9.jpg"
+            },
+            {
+                "name": "Michelle Williams",
+                "image": "https://image.tmdb.org/t/p/w185/jn3BVMVbIptz2gc6Fhxo1qwJVvW.jpg"
+            },
+            {
+                "name": "Catherine Keener",
+                "image": "https://image.tmdb.org/t/p/w185/n4CTwGszs6cwS1wJRlDQ5Mlh7Ex.jpg"
+            },
+            {
+                "name": "Emily Watson",
+                "image": "https://image.tmdb.org/t/p/w185/bd0qiJXHoLNpkCqABsh67AKRtjC.jpg"
+            }
+        ],
+        "overview": "A theater director struggles with his work, and the women in his life, as he attempts to create a life-size replica of New York inside a warehouse as part of his new play.",
+        "runtime": "N/A",
+        "vote_count": 1615,
+        "similarity_score": 27
+    },
+    "Seeking a Friend for the End of the World": {
+        "title": "Seeking a Friend for the End of the World",
+        "rating": 6.567,
+        "release_date": "2012-06-22",
+        "poster": "https://image.tmdb.org/t/p/w500/rBbCwFLyt7Q25yaw2bEOQh7RMG1.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/tEJ3nvnp520AvNPbhCegHMo1EfM.jpg",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "cast": [],
+        "overview": "As an asteroid nears Earth, a man finds himself alone after his wife leaves in a panic. He decides to take a road trip to reunite with his high school sweetheart. Accompanying him is a neighbor who inadvertently puts a wrench in his plan.",
+        "runtime": "N/A",
+        "vote_count": 2260
+    },
+    "Cyrus": {
+        "title": "Cyrus",
+        "rating": 5.92,
+        "release_date": "2010-06-18",
+        "poster": "https://image.tmdb.org/t/p/w500/qkJ0rB1qf62TJ6thxEVRT7Eccqn.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/1XC5EcGNIW0LGPGRineTcDUGzVB.jpg",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "cast": [
+            {
+                "name": "John C. Reilly",
+                "image": "https://image.tmdb.org/t/p/w185/iDQ8w4qcxU3le5ZWoCKpHs1QNok.jpg"
+            },
+            {
+                "name": "Jonah Hill",
+                "image": "https://image.tmdb.org/t/p/w185/cymlWttB83MsAGR2EkTgANtjeRH.jpg"
+            },
+            {
+                "name": "Marisa Tomei",
+                "image": "https://image.tmdb.org/t/p/w185/5w6qM8FWsl5SutKSpx6Va64eCTE.jpg"
+            },
+            {
+                "name": "Catherine Keener",
+                "image": "https://image.tmdb.org/t/p/w185/n4CTwGszs6cwS1wJRlDQ5Mlh7Ex.jpg"
+            },
+            {
+                "name": "Matt Walsh",
+                "image": "https://image.tmdb.org/t/p/w185/fp1JsNbZyhJ3PHpwZJVDYRz1RGF.jpg"
+            }
+        ],
+        "overview": "With John's social life at a standstill and his ex-wife about to get remarried, a down on his luck divorcée finally meets the woman of his dreams, only to discover she has another man in her life - her son. Before long, the two are locked in a battle of wits for the woman they both love-and it appears only one man can be left standing when it's over.",
+        "runtime": "N/A",
+        "vote_count": 461,
+        "similarity_score": 46
+    },
+    "Moonlight Mile": {
+        "title": "Moonlight Mile",
+        "rating": 6.317,
+        "release_date": "2002-09-09",
+        "poster": "https://image.tmdb.org/t/p/w500/jKDnCPUkL4QsgeqKCtyNMPL2XUU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/53f29bdN46K7UT17OCYQ0sBZBdm.jpg",
+        "genres": [
+            "Drama"
+        ],
+        "cast": [
+            {
+                "name": "Dustin Hoffman",
+                "image": "https://image.tmdb.org/t/p/w185/yxNGnTiou25c3zjppT5dW2eWAve.jpg"
+            },
+            {
+                "name": "Susan Sarandon",
+                "image": "https://image.tmdb.org/t/p/w185/jR6l2EfvvGA8qCzZ7MB5FT9ZLkq.jpg"
+            },
+            {
+                "name": "Jake Gyllenhaal",
+                "image": "https://image.tmdb.org/t/p/w185/j2Yahha9C0zN5DRaTDzYA7WtdOT.jpg"
+            },
+            {
+                "name": "Alexia Landeau",
+                "image": "https://image.tmdb.org/t/p/w185/raiGR6UduPUg7NKw6bouDYlYJzC.jpg"
+            },
+            {
+                "name": "Ellen Pompeo",
+                "image": "https://image.tmdb.org/t/p/w185/yPd4G2RcjXQPNWkKUPbWh5v1flC.jpg"
+            }
+        ],
+        "overview": "As he copes with the death of his fiancee along with her parents, a young man must figure out what he wants out of life.",
+        "runtime": "N/A",
+        "vote_count": 243,
+        "similarity_score": 36
+    },
+    "All Is Lost": {
+        "title": "All Is Lost",
+        "rating": 6.646,
+        "release_date": "2013-08-23",
+        "poster": "https://image.tmdb.org/t/p/w500/9cVA4oX2xHgiglv6hemxwAaofsq.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/tGy0zyeljUFV20qjVmAigwnlWKv.jpg",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "cast": [
+            {
+                "name": "Robert Redford",
+                "image": "https://image.tmdb.org/t/p/w185/tCcg8rXzYIM4ota9grCCHc881bo.jpg"
+            }
+        ],
+        "overview": "During a solo voyage in the Indian Ocean, a veteran mariner awakes to find his vessel taking on water after a collision with a stray shipping container. With his radio and navigation equipment disabled, he sails unknowingly into a violent storm and barely escapes with his life. With any luck, the ocean currents may carry him into a shipping lane -- but, with supplies dwindling and the sharks circling, the sailor is forced to face his own mortality.",
+        "runtime": "N/A",
+        "vote_count": 1765,
+        "similarity_score": 34
+    },
+    "At First Sight": {
+        "title": "At First Sight",
+        "rating": 6.014,
+        "release_date": "1999-01-15",
+        "poster": "https://image.tmdb.org/t/p/w500/9nylrKj8zWxTor9BCy3umv6WHZe.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/4guSmJ5dCX6Y8OFifFVk6Dp9dA6.jpg",
+        "genres": [
+            "Drama"
+        ],
+        "cast": [
+            {
+                "name": "Val Kilmer",
+                "image": "https://image.tmdb.org/t/p/w185/sWH9jTD0bC5gWhhceUlzfNiNup0.jpg"
+            },
+            {
+                "name": "Mira Sorvino",
+                "image": "https://image.tmdb.org/t/p/w185/3CPM8yvppihiKsA1pf4x8PJe4x6.jpg"
+            },
+            {
+                "name": "Kelly McGillis",
+                "image": "https://image.tmdb.org/t/p/w185/150q3jC4YF1pzSCRe29Kn12W9Ao.jpg"
+            },
+            {
+                "name": "Steven Weber",
+                "image": "https://image.tmdb.org/t/p/w185/8FtkapenCOpe39eE1sQus5WLWAq.jpg"
+            },
+            {
+                "name": "Bruce Davison",
+                "image": "https://image.tmdb.org/t/p/w185/41JtouCUhnnBwWmdsemPydtk3FB.jpg"
+            }
+        ],
+        "overview": "A blind man has an operation to regain his sight at the urging of his girlfriend and must deal with the changes to his life.",
+        "runtime": "N/A",
+        "vote_count": 257,
+        "similarity_score": 32
+    },
+    "Alien Zone": {
+        "title": "Magical Girl Club Quartet: Alien X from A Zone",
+        "rating": 7.5,
+        "release_date": "1987-07-28",
+        "poster": "https://image.tmdb.org/t/p/w500/lPsvobXz9WY6bXewd1yqSUIGZYI.jpg",
+        "backdrop": null,
+        "genres": [
+            "Animation",
+            "Sci-Fi",
+            "Comedy"
+        ],
+        "cast": [
+            {
+                "name": "Mariko Shiga",
+                "image": null
+            },
+            {
+                "name": "Mina Tominaga",
+                "image": "https://image.tmdb.org/t/p/w185/A1MTkgqfy8UYkQTOLhv3oxo7eYA.jpg"
+            },
+            {
+                "name": "Takako Ohta",
+                "image": null
+            },
+            {
+                "name": "Yoko Obata",
+                "image": "https://image.tmdb.org/t/p/w185/cnaGJfgHUTdJQY7zII91ILlrqa1.jpg"
+            },
+            {
+                "name": "Minoru Inaba",
+                "image": "https://image.tmdb.org/t/p/w185/3ZQFNc8cDQMgz6vh8KvGzpV2sNp.jpg"
+            }
+        ],
+        "overview": "Yuu, Persia, Mai and Yumi are together in a science fiction-like adventure. An awful monster assault young and beautiful girls, leaving them transformed into ugly hags: only our four magical girls with their powers can fly to the space and fight for Earth 's sake, so Yuu transforms into Creamy Mami, Mai into Magical Emi, Persia into Fairy and little Yumi draws space suits for all of them.",
+        "runtime": "N/A",
+        "vote_count": 2
+    },
+    "Krrish": {
+        "title": "Krrish",
+        "rating": 6.5,
+        "release_date": "2006-06-23",
+        "poster": "https://image.tmdb.org/t/p/w500/Apd4UKesyTmpDutEjNVHP45kvBi.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/7yD0xhcx600Ng2XBElVE4eN4bE7.jpg",
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "cast": [
+            {
+                "name": "Hrithik Roshan",
+                "image": "https://image.tmdb.org/t/p/w185/5O7WrWe84WDFj7td64NVsobtHf3.jpg"
+            },
+            {
+                "name": "Priyanka Chopra Jonas",
+                "image": "https://image.tmdb.org/t/p/w185/9n2n3fUFI553HKH0CEAb2TPLtCx.jpg"
+            },
+            {
+                "name": "Rekha",
+                "image": "https://image.tmdb.org/t/p/w185/fTXd5QlWck5CDxijM56YXx2Crob.jpg"
+            },
+            {
+                "name": "Naseeruddin Shah",
+                "image": "https://image.tmdb.org/t/p/w185/lFvGfKypi5NNyUjrsT8Y7ebWc7G.jpg"
+            },
+            {
+                "name": "Sharat Saxena",
+                "image": "https://image.tmdb.org/t/p/w185/ArW6nQ23bjVfbcFmNVl4W9zpd7X.jpg"
+            }
+        ],
+        "overview": "In Singapore, Krishna is forced by circumstances to use his superpowers and become a masked superhero named Krrish, before getting drawn towards his lost legacy.",
+        "runtime": "N/A",
+        "vote_count": 284,
+        "similarity_score": 31
+    },
+    "The Promise": {
+        "title": "The Promise",
+        "rating": 6.845,
+        "release_date": "2016-12-02",
+        "poster": "https://image.tmdb.org/t/p/w500/iDWer2VFikupdqDc7d5sxCWZ3gW.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/sOgj0Kk22lQq40kn19u83JOEZRS.jpg",
+        "genres": [
+            "Drama"
+        ],
+        "cast": [
+            {
+                "name": "Oscar Isaac",
+                "image": "https://image.tmdb.org/t/p/w185/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg"
+            },
+            {
+                "name": "Charlotte Le Bon",
+                "image": "https://image.tmdb.org/t/p/w185/gFxDFaeEDNjT9gKrQNB5GG8b8aM.jpg"
+            },
+            {
+                "name": "Christian Bale",
+                "image": "https://image.tmdb.org/t/p/w185/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+            },
+            {
+                "name": "Daniel Giménez Cacho",
+                "image": "https://image.tmdb.org/t/p/w185/4sM4fbDAyjDcEcxRqVWpUF35IrL.jpg"
+            },
+            {
+                "name": "Tom Hollander",
+                "image": "https://image.tmdb.org/t/p/w185/cqZiJsImFZ6TaeShRRg49AZ9TyT.jpg"
+            }
+        ],
+        "overview": "Set during the last days of the Ottoman Empire, a love triangle develops between Mikael, a brilliant medical student, the beautiful and sophisticated artist Ana, and Chris, a renowned American journalist based in Paris.",
+        "runtime": "N/A",
+        "vote_count": 510,
+        "similarity_score": 31
+    },
+    "The Change-Up": {
+        "title": "The Change-Up",
+        "rating": 6.16,
+        "release_date": "2011-08-05",
+        "poster": "https://image.tmdb.org/t/p/w500/iV6ARQZyGpjygtzFMdWH9U1Lj9x.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/mMxbSeNEkiddadwyuHrU21621U.jpg",
+        "genres": [
+            "Comedy"
+        ],
+        "cast": [
+            {
+                "name": "Jason Bateman",
+                "image": "https://image.tmdb.org/t/p/w185/wS22fofYtUf4aGXACFwhkTjUk6a.jpg"
+            },
+            {
+                "name": "Ryan Reynolds",
+                "image": "https://image.tmdb.org/t/p/w185/trzgptffGvAlAT6MEu01fz47cLW.jpg"
+            },
+            {
+                "name": "Leslie Mann",
+                "image": "https://image.tmdb.org/t/p/w185/x3OS9RL3qsv50kzRtpR2OhbuTkr.jpg"
+            },
+            {
+                "name": "Olivia Wilde",
+                "image": "https://image.tmdb.org/t/p/w185/jYopRE6nhYGqpb64fVUKrbJVMy1.jpg"
+            },
+            {
+                "name": "Alan Arkin",
+                "image": "https://image.tmdb.org/t/p/w185/lTMMpkqL0G3WeFNfbtdP5COZEiX.jpg"
+            }
+        ],
+        "overview": "Lifelong friends Dave and Mitch are envious of the other's life. Mitch thinks Dave has it all: a beautiful, loving family and a high-paying job at a prestigious law firm. But Dave thinks Mitch’s stress-free playboy life without obligation or consequence is the real dream come true. One fateful drunken night, they both admit that they wish they had the other’s life while peeing in a fountain when lightning strikes. The next morning, they wake up, hungover, in each other’s bodies! With time not on their side, Mitch and Dave comically struggle to avoid completely destroying each other’s lives before they can find a way to get their old ones back.",
+        "runtime": "N/A",
+        "vote_count": 2993,
+        "similarity_score": 31
+    },
+    "Pirates of the Caribbean: Dead Man's Chest": {
+        "title": "Pirates of the Caribbean: Dead Man's Chest",
+        "rating": 7.384,
+        "release_date": "2006-07-06",
+        "poster": "https://image.tmdb.org/t/p/w500/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/vr6n6ZFUZvedvIlhfYcbCWcaKyW.jpg",
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Action"
+        ],
+        "cast": [
+            {
+                "name": "Johnny Depp",
+                "image": "https://image.tmdb.org/t/p/w185/k2xt6EUxQDwYRKIyI4IBdZxfs8n.jpg"
+            },
+            {
+                "name": "Orlando Bloom",
+                "image": "https://image.tmdb.org/t/p/w185/lwQoA0qJTCZ6l2FH6PjmhRQjiaB.jpg"
+            },
+            {
+                "name": "Keira Knightley",
+                "image": "https://image.tmdb.org/t/p/w185/k69IOXdz8PAvaegAI8WYvQvyyUJ.jpg"
+            },
+            {
+                "name": "Jack Davenport",
+                "image": "https://image.tmdb.org/t/p/w185/shGH0YWJBfiJznidS0f2ZfN056c.jpg"
+            },
+            {
+                "name": "Bill Nighy",
+                "image": "https://image.tmdb.org/t/p/w185/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg"
+            }
+        ],
+        "overview": "Captain Jack Sparrow’s got a blood debt to pay: he owes his soul to the legendary Davy Jones, ghastly Ruler of the Ocean Depths. To escape eternal servitude aboard the Flying Dutchman, ever-crafty Jack must track down the still-beating heart of Jones. But he won’t do it alone: Will Turner and Elizabeth Swann are drawn back into another one of his perilous quests—assuming they can evade execution for aiding a pirate.",
+        "runtime": "N/A",
+        "vote_count": 17267,
+        "similarity_score": 48
+    },
+    "Pirates of the Caribbean: On Stranger Tides": {
+        "title": "Pirates of the Caribbean: On Stranger Tides",
+        "rating": 6.571,
+        "release_date": "2011-05-15",
+        "poster": "https://image.tmdb.org/t/p/w500/keGfSvCmYj7CvdRx36OdVrAEibE.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/uzIGtyS6bbnJzGsPL93WCF1FWm8.jpg",
+        "genres": [
+            "Adventure",
+            "Action",
+            "Fantasy"
+        ],
+        "cast": [
+            {
+                "name": "Johnny Depp",
+                "image": "https://image.tmdb.org/t/p/w185/k2xt6EUxQDwYRKIyI4IBdZxfs8n.jpg"
+            },
+            {
+                "name": "Penélope Cruz",
+                "image": "https://image.tmdb.org/t/p/w185/n5SFgmvJSENQt8poE4qYacUnKOi.jpg"
+            },
+            {
+                "name": "Geoffrey Rush",
+                "image": "https://image.tmdb.org/t/p/w185/npXFjaFQzBNroCEPllGPTZ5IisA.jpg"
+            },
+            {
+                "name": "Ian McShane",
+                "image": "https://image.tmdb.org/t/p/w185/qh9RTLbnr128TZLdGuXwUH9mdBM.jpg"
+            },
+            {
+                "name": "Kevin McNally",
+                "image": "https://image.tmdb.org/t/p/w185/1QvG7MbfeWxb4LlZrlR4OtwvB8v.jpg"
+            }
+        ],
+        "overview": "When Jack crosses paths with a woman from his past, he's not sure if it's love...or if she's a ruthless con artist using him to find the fabled Fountain of Youth.",
+        "runtime": "N/A",
+        "vote_count": 15017,
+        "similarity_score": 28
+    },
+    "The Indian in the Cupboard": {
+        "title": "The Indian in the Cupboard",
+        "rating": 6.473,
+        "release_date": "1995-07-14",
+        "poster": "https://image.tmdb.org/t/p/w500/ozQAmW85tTJu2dhRe3evzyY03Nb.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/fKzQzmqsUDVbrH4dux9FcXtXLbQ.jpg",
+        "genres": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "cast": [],
+        "overview": "A nine-year-old boy gets a plastic Indian and a cupboard for his birthday and finds himself involved in adventure when the Indian comes to life and befriends him.",
+        "runtime": "N/A",
+        "vote_count": 682,
+        "similarity_score": 22
+    },
+    "Life of Pi": {
+        "title": "Life of Pi",
+        "rating": 7.41,
+        "release_date": "2012-11-20",
+        "poster": "https://image.tmdb.org/t/p/w500/iLgRu4hhSr6V1uManX6ukDriiSc.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/21YsCNMub5455NQCn3jh9SmRFyG.jpg",
+        "genres": [
+            "Adventure",
+            "Drama"
+        ],
+        "cast": [
+            {
+                "name": "Suraj Sharma",
+                "image": "https://image.tmdb.org/t/p/w185/zM1GN7rnzdhoIK3FBXaBCOx7igy.jpg"
+            },
+            {
+                "name": "Irrfan Khan",
+                "image": "https://image.tmdb.org/t/p/w185/qkA9PpWJRw3rNjVkWfNZdwLvRZx.jpg"
+            },
+            {
+                "name": "Ayush Tandon",
+                "image": "https://image.tmdb.org/t/p/w185/iVq1xDK3dYPSAulHdDW2JiIlco1.jpg"
+            },
+            {
+                "name": "Gautam Belur",
+                "image": "https://image.tmdb.org/t/p/w185/xZvgan0VaYZNxr9Leug0O4Op4an.jpg"
+            },
+            {
+                "name": "Adil Hussain",
+                "image": "https://image.tmdb.org/t/p/w185/eCWVa1pH7mmz0i9Q0l4VEKs7g6m.jpg"
+            }
+        ],
+        "overview": "The story of an Indian boy named Pi, a zookeeper's son who finds himself in the company of a hyena, zebra, orangutan, and a Bengal tiger after a shipwreck sets them adrift in the Pacific Ocean.",
+        "runtime": "N/A",
+        "vote_count": 13824,
+        "similarity_score": 20
+    },
+    "The Imaginarium of Doctor Parnassus": {
+        "title": "The Imaginarium of Doctor Parnassus",
+        "rating": 6.385,
+        "release_date": "2009-10-01",
+        "poster": "https://image.tmdb.org/t/p/w500/DtrqQHa0wT9AWrk2WA9beROJJx.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/vBw4z7l3NI32th7nR34zqRgdvXS.jpg",
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Mystery"
+        ],
+        "cast": [
+            {
+                "name": "Christopher Plummer",
+                "image": "https://image.tmdb.org/t/p/w185/u0YBwss0ebEUp8sjRtQKnK2wZdR.jpg"
+            },
+            {
+                "name": "Lily Cole",
+                "image": "https://image.tmdb.org/t/p/w185/3FMhejoBwtmfkkoS9vgJAxYa7fy.jpg"
+            },
+            {
+                "name": "Heath Ledger",
+                "image": "https://image.tmdb.org/t/p/w185/AdWKVqyWpkYSfKE5Gb2qn8JzHni.jpg"
+            },
+            {
+                "name": "Andrew Garfield",
+                "image": "https://image.tmdb.org/t/p/w185/beO5YvbTjrr5yy8hW26KVDMSr35.jpg"
+            },
+            {
+                "name": "Verne Troyer",
+                "image": "https://image.tmdb.org/t/p/w185/iNjzleUvrnhN4PDuuJerF2SCFfn.jpg"
+            }
+        ],
+        "overview": "After a carnival troupe saves his life, a man agrees to help its immortal leader collect five souls and win a bet with the devil.",
+        "runtime": "N/A",
+        "vote_count": 2898,
+        "similarity_score": 20
+    },
+    "The Pirates! In an Adventure with Scientists!": {
+        "title": "The Pirates! In an Adventure with Scientists!",
+        "rating": 6.532,
+        "release_date": "2012-03-12",
+        "poster": "https://image.tmdb.org/t/p/w500/bkLeXPDP6sramrTiF5W7TzUl4t0.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/9UZnCIeUVHzZQLDXN7lht2T4ndB.jpg",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ],
+        "cast": [
+            {
+                "name": "Hugh Grant",
+                "image": "https://image.tmdb.org/t/p/w185/dvV843fOuzsEPXHtFvdzsHpy1rC.jpg"
+            },
+            {
+                "name": "Martin Freeman",
+                "image": "https://image.tmdb.org/t/p/w185/nrO54AzrxiNgCjBUOSz6ebyxDZY.jpg"
+            },
+            {
+                "name": "Imelda Staunton",
+                "image": "https://image.tmdb.org/t/p/w185/96LYLMnUOWZ4DFXEeQPItNsxzEP.jpg"
+            },
+            {
+                "name": "David Tennant",
+                "image": "https://image.tmdb.org/t/p/w185/mGfrEMbxjUWjek1WDSq1j4TULIR.jpg"
+            },
+            {
+                "name": "Jeremy Piven",
+                "image": "https://image.tmdb.org/t/p/w185/pBD1jcAZiDrHWcFpJtBtqLRD4gR.jpg"
+            }
+        ],
+        "overview": "The enthusiastic Pirate Captain, along with his rag-tag crew, sets out to beat his bitter rivals. The chaotic adventure takes them from exotic shores to Victorian London, and from a haplessly smitten scientist to a diabolical queen.",
+        "runtime": "N/A",
+        "vote_count": 1219,
+        "similarity_score": 19
+    },
+    "Open Road": {
+        "title": "Open Road",
+        "rating": 5.0,
+        "release_date": "2013-04-12",
+        "poster": "https://image.tmdb.org/t/p/w500/y8Ecw1WdbgTacszNR1C0G4WK21r.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/8pu9akucB5NH1ZwKRBX9kLdLZLN.jpg",
+        "genres": [
+            "Action",
+            "Drama",
+            "Thriller"
+        ],
+        "cast": [
+            {
+                "name": "Camilla Belle",
+                "image": "https://image.tmdb.org/t/p/w185/kYhpuTi1E3IvdHAmuijjth0lQNS.jpg"
+            },
+            {
+                "name": "Carol Castro",
+                "image": "https://image.tmdb.org/t/p/w185/jN0sc7YGNQ4TFITTQuE9lLcZszx.jpg"
+            },
+            {
+                "name": "Christiane Torloni",
+                "image": "https://image.tmdb.org/t/p/w185/kxU8VeL70i06MhETOPNYhJELpz2.jpg"
+            },
+            {
+                "name": "Catherine Bach",
+                "image": "https://image.tmdb.org/t/p/w185/vueGk7x86lnLFleG1OKF9bb8VSF.jpg"
+            },
+            {
+                "name": "Andy Garcia",
+                "image": "https://image.tmdb.org/t/p/w185/9EivXoBlczZcFBet96WOoFbDsfF.jpg"
+            }
+        ],
+        "overview": "Angie, a young Brazilian artist, abandons her old life and embarks on a journey around the country. Running from her past, and searching for her foundation in life, Angie finds not only herself but love in its many forms.",
+        "runtime": "N/A",
+        "vote_count": 46,
+        "similarity_score": 19
+    },
+    "Pirates of the Caribbean: The Curse of the Black Pearl": {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "rating": 7.8,
+        "release_date": "2003-07-09",
+        "poster": "https://image.tmdb.org/t/p/w500/poHwCZeWzJCShH7tOjg8RIoyjcw.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/uRNgkJSkNBFbbn9fPsEjDIy8Sh3.jpg",
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Action"
+        ],
+        "cast": [
+            {
+                "name": "Johnny Depp",
+                "image": "https://image.tmdb.org/t/p/w185/k2xt6EUxQDwYRKIyI4IBdZxfs8n.jpg"
+            },
+            {
+                "name": "Geoffrey Rush",
+                "image": "https://image.tmdb.org/t/p/w185/npXFjaFQzBNroCEPllGPTZ5IisA.jpg"
+            },
+            {
+                "name": "Orlando Bloom",
+                "image": "https://image.tmdb.org/t/p/w185/lwQoA0qJTCZ6l2FH6PjmhRQjiaB.jpg"
+            },
+            {
+                "name": "Keira Knightley",
+                "image": "https://image.tmdb.org/t/p/w185/k69IOXdz8PAvaegAI8WYvQvyyUJ.jpg"
+            },
+            {
+                "name": "Jack Davenport",
+                "image": "https://image.tmdb.org/t/p/w185/shGH0YWJBfiJznidS0f2ZfN056c.jpg"
+            }
+        ],
+        "overview": "When wily pirate Captain Barbossa seizes Jack Sparrow’s beloved ship, the Black Pearl, and kidnaps the governor’s daughter, Elizabeth Swann, blacksmith Will Turner reluctantly teams up with the unpredictable pirate Jack to rescue her—only to uncover a terrifying curse that turns Barbossa’s crew into the undead.",
+        "runtime": "N/A",
+        "vote_count": 22368,
+        "similarity_score": 37
+    },
+    "The Other Side of Heaven": {
+        "title": "The Other Side of Heaven",
+        "rating": 6.3,
+        "release_date": "2001-04-12",
+        "poster": "https://image.tmdb.org/t/p/w500/1jHSJULA0nEDfVeewlLvppsjve8.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/eYRVyA4oBRNkrT4kAqPS7xiiZHc.jpg",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "cast": [
+            {
+                "name": "Christopher Gorham",
+                "image": "https://image.tmdb.org/t/p/w185/dKFXHJ3KBJaeQ50udMdBEC0VFvI.jpg"
+            },
+            {
+                "name": "Anne Hathaway",
+                "image": "https://image.tmdb.org/t/p/w185/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg"
+            },
+            {
+                "name": "Joe Folau",
+                "image": "https://image.tmdb.org/t/p/w185/uwDx53f5JqidhtCp8SWS6XEbfT8.jpg"
+            },
+            {
+                "name": "Miriama Smith",
+                "image": "https://image.tmdb.org/t/p/w185/pBSzslMqid2v6FKvws5KNOaNOoU.jpg"
+            },
+            {
+                "name": "Gerald R. Molen",
+                "image": "https://image.tmdb.org/t/p/w185/m1C2E9MWClm3ITzxQzUxmE1qphL.jpg"
+            }
+        ],
+        "overview": "John H. Groberg, a middle class kid from Idaho Falls, crosses the Pacific to become a Mormon missionary in the remote and exotic Tongan island kingdom during the 1950's. He leaves behind a loving family and the true love of his life, Jean. Through letters and musings across the miles, John shares his humbling and sometimes hilarious adventures with \"the girl back home\", and her letters buoy up his spirits in difficult times. John must struggle to overcome language barriers, physical hardship and deep-rooted suspicion to earn the trust and love of the Tongan people he has come to serve. Throughout his adventure-filled three years on the islands, he discovers friends and wisdom in the most unlikely places. John H. Groberg's Tongan odyssey will change his life forever.",
+        "runtime": "N/A",
+        "vote_count": 71,
+        "similarity_score": 19
+    },
+    "Obsession": {
+        "title": "Obsession",
+        "rating": 8.177,
+        "release_date": "2026-05-13",
+        "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
+        "genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "cast": [
+            {
+                "name": "Michael Johnston",
+                "image": "https://image.tmdb.org/t/p/w185/fbpcCkBzu43kMdlXxEAMuLhseL8.jpg"
+            },
+            {
+                "name": "Inde Navarrette",
+                "image": "https://image.tmdb.org/t/p/w185/8mYBaOximzwBgXOYRzbS6eUnoMX.jpg"
+            },
+            {
+                "name": "Cooper Tomlinson",
+                "image": "https://image.tmdb.org/t/p/w185/vBMQbYT1DyWPCUp11dIiqZR9zhd.jpg"
+            },
+            {
+                "name": "Megan Lawless",
+                "image": "https://image.tmdb.org/t/p/w185/6qW63YEgB1qro01sM7T2HvhtFkh.jpg"
+            },
+            {
+                "name": "Andy Richter",
+                "image": "https://image.tmdb.org/t/p/w185/5Qr7N6TzC8cI0ULxDm6EC5GpZ4C.jpg"
+            }
+        ],
+        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "runtime": "N/A",
+        "vote_count": 1714
+    },
+    "Enola Holmes 3": {
+        "title": "Enola Holmes 3",
+        "rating": 7.1,
+        "release_date": "2026-06-30",
+        "poster": "https://image.tmdb.org/t/p/w500/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
+        "genres": [
+            "Adventure",
+            "Crime",
+            "Mystery"
+        ],
+        "cast": [
+            {
+                "name": "Millie Bobby Brown",
+                "image": "https://image.tmdb.org/t/p/w185/kHO7hdNEVuTnQ0OjjrxP1RcAa0e.jpg"
+            },
+            {
+                "name": "Henry Cavill",
+                "image": "https://image.tmdb.org/t/p/w185/kN3A5oLgtKYAxa9lAkpsIGYKYVo.jpg"
+            },
+            {
+                "name": "Helena Bonham Carter",
+                "image": "https://image.tmdb.org/t/p/w185/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
+            },
+            {
+                "name": "Louis Partridge",
+                "image": "https://image.tmdb.org/t/p/w185/s6AW7VreXxAjhaHgjg9HV3tRM2T.jpg"
+            },
+            {
+                "name": "Himesh Patel",
+                "image": "https://image.tmdb.org/t/p/w185/qCjfMjUxiAHdVpIMI9YN5MUdn24.jpg"
+            }
+        ],
+        "overview": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
+        "runtime": "N/A",
+        "vote_count": 141
+    },
+    "The Devil Wears Prada 2": {
+        "title": "The Devil Wears Prada 2",
+        "rating": 6.898,
+        "release_date": "2026-04-29",
+        "poster": "https://image.tmdb.org/t/p/w500/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/Af907x5h9W1wVis8XrSd7ynTWuy.jpg",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "cast": [
+            {
+                "name": "Meryl Streep",
+                "image": "https://image.tmdb.org/t/p/w185/g5cVxQBAQ3AXt3LhdBXtbbN47Uc.jpg"
+            },
+            {
+                "name": "Anne Hathaway",
+                "image": "https://image.tmdb.org/t/p/w185/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg"
+            },
+            {
+                "name": "Emily Blunt",
+                "image": "https://image.tmdb.org/t/p/w185/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg"
+            },
+            {
+                "name": "Stanley Tucci",
+                "image": "https://image.tmdb.org/t/p/w185/q4TanMDI5Rgsvw4SfyNbPBh4URr.jpg"
+            },
+            {
+                "name": "Kenneth Branagh",
+                "image": "https://image.tmdb.org/t/p/w185/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg"
+            }
+        ],
+        "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
+        "runtime": "N/A",
+        "vote_count": 1135
+    },
+    "Supergirl": {
+        "title": "Supergirl",
+        "rating": 6.27,
+        "release_date": "2026-06-24",
+        "poster": "https://image.tmdb.org/t/p/w500/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "cast": [
+            {
+                "name": "Milly Alcock",
+                "image": "https://image.tmdb.org/t/p/w185/cpcNqIORhZlpie8U2wSInhv0Hjf.jpg"
+            },
+            {
+                "name": "Eve Ridley",
+                "image": "https://image.tmdb.org/t/p/w185/vmEfK4PO6rUvTJnN8bbUZrSDgII.jpg"
+            },
+            {
+                "name": "Matthias Schoenaerts",
+                "image": "https://image.tmdb.org/t/p/w185/9mRssCj4si6f6IF3nJ2RB5w0J7g.jpg"
+            },
+            {
+                "name": "Jason Momoa",
+                "image": "https://image.tmdb.org/t/p/w185/3troAR6QbSb6nUFMDu61YCCWLKa.jpg"
+            },
+            {
+                "name": "David Krumholtz",
+                "image": "https://image.tmdb.org/t/p/w185/ibp6vAc8MWTAKaTI9tfpUJtqiAX.jpg"
+            }
+        ],
+        "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+        "runtime": "N/A",
+        "vote_count": 326
+    },
+    "Toy Story 5": {
+        "title": "Toy Story 5",
+        "rating": 7.4,
+        "release_date": "2026-06-17",
+        "poster": "https://image.tmdb.org/t/p/w500/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
+        "genres": [
+            "Animation",
+            "Family",
+            "Comedy"
+        ],
+        "cast": [
+            {
+                "name": "Tom Hanks",
+                "image": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+            },
+            {
+                "name": "Tim Allen",
+                "image": "https://image.tmdb.org/t/p/w185/woWhZzFILVhYMAvsPL171HjMY0y.jpg"
+            },
+            {
+                "name": "Joan Cusack",
+                "image": "https://image.tmdb.org/t/p/w185/59UIeHZFYrKyP20lXqijtfTXglO.jpg"
+            },
+            {
+                "name": "Greta Lee",
+                "image": "https://image.tmdb.org/t/p/w185/6SydTis4XUcovlwIGskT59JowLX.jpg"
+            },
+            {
+                "name": "Conan O'Brien",
+                "image": "https://image.tmdb.org/t/p/w185/deRbViPut0t80miscBpP2DhBJU5.jpg"
+            }
+        ],
+        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+        "runtime": "N/A",
+        "vote_count": 430
+    },
+    "Minions & Monsters": {
+        "title": "Minions & Monsters",
+        "rating": 6.7,
+        "release_date": "2026-06-24",
+        "poster": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Comedy"
+        ],
+        "cast": [
+            {
+                "name": "Pierre Coffin",
+                "image": "https://image.tmdb.org/t/p/w185/eAA9uWRqHlm1LT3nZfXb7UuPfVb.jpg"
+            },
+            {
+                "name": "Trey Parker",
+                "image": "https://image.tmdb.org/t/p/w185/pJXoVIWIArahl54EFY47clpPipc.jpg"
+            },
+            {
+                "name": "Allison Janney",
+                "image": "https://image.tmdb.org/t/p/w185/kSaSnQ9xU8eVNL0mTppab95dZA8.jpg"
+            },
+            {
+                "name": "Christoph Waltz",
+                "image": "https://image.tmdb.org/t/p/w185/jMvLGCVXLaBqjRLf5olyvEucZob.jpg"
+            },
+            {
+                "name": "Jeff Bridges",
+                "image": "https://image.tmdb.org/t/p/w185/xms1RAY6q7Lzp7wNeRCB0kzhucn.jpg"
+            }
+        ],
+        "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+        "runtime": "N/A",
+        "vote_count": 70
+    },
+    "Backrooms": {
+        "title": "Backrooms",
+        "rating": 6.858,
+        "release_date": "2026-05-27",
+        "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "cast": [
+            {
+                "name": "Chiwetel Ejiofor",
+                "image": "https://image.tmdb.org/t/p/w185/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
+            },
+            {
+                "name": "Renate Reinsve",
+                "image": "https://image.tmdb.org/t/p/w185/q0ljTd4fyFSJKxPgmcrKtdg3HKo.jpg"
+            },
+            {
+                "name": "Mark Duplass",
+                "image": "https://image.tmdb.org/t/p/w185/lRDf99rAfcdqt8Cqk4LsIT7XSD2.jpg"
+            },
+            {
+                "name": "Finn Bennett",
+                "image": "https://image.tmdb.org/t/p/w185/p4ya77nmLlhS2cyPKUZi9zVD4Mu.jpg"
+            },
+            {
+                "name": "Lukita Maxwell",
+                "image": "https://image.tmdb.org/t/p/w185/g5g6XxUAtSdPfsJrSoFkl7vH51d.jpg"
+            }
+        ],
+        "overview": "A strange doorway appears in the basement of a furniture showroom.",
+        "runtime": "N/A",
+        "vote_count": 841
+    },
+    "The Sheep Detectives": {
+        "title": "The Sheep Detectives",
+        "rating": 7.754,
+        "release_date": "2026-04-30",
+        "poster": "https://image.tmdb.org/t/p/w500/iKy5460GdsoknM8ppmGlJbKxAKa.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
+        "genres": [
+            "Adventure",
+            "Mystery",
+            "Comedy"
+        ],
+        "cast": [
+            {
+                "name": "Hugh Jackman",
+                "image": "https://image.tmdb.org/t/p/w185/oX6CpXmnXCHLyqsa4NEed1DZAKx.jpg"
+            },
+            {
+                "name": "Julia Louis-Dreyfus",
+                "image": "https://image.tmdb.org/t/p/w185/iEfHQNrVbVFesDPjdySom9nqsFg.jpg"
+            },
+            {
+                "name": "Emma Thompson",
+                "image": "https://image.tmdb.org/t/p/w185/zQ0hWHh3tzaOOziPbABQI8s9WCu.jpg"
+            },
+            {
+                "name": "Nicholas Braun",
+                "image": "https://image.tmdb.org/t/p/w185/b2I6bZptuld3pjlVkYIy4DtMKGg.jpg"
+            },
+            {
+                "name": "Chris O'Dowd",
+                "image": "https://image.tmdb.org/t/p/w185/xhfgliN8DInDVBliPq7JDeKNCvz.jpg"
+            }
+        ],
+        "overview": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
+        "runtime": "N/A",
+        "vote_count": 619
+    },
+    "Spider-Man: Brand New Day": {
+        "title": "Spider-Man: Brand New Day",
+        "rating": 0.0,
+        "release_date": "2026-07-29",
+        "poster": "https://image.tmdb.org/t/p/w500/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+        "genres": [
+            "Sci-Fi",
+            "Action",
+            "Adventure"
+        ],
+        "cast": [
+            {
+                "name": "Tom Holland",
+                "image": "https://image.tmdb.org/t/p/w185/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg"
+            },
+            {
+                "name": "Zendaya",
+                "image": "https://image.tmdb.org/t/p/w185/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
+            },
+            {
+                "name": "Sadie Sink",
+                "image": "https://image.tmdb.org/t/p/w185/fV0KHJcK3fYX2acMorDUf1Uv9mY.jpg"
+            },
+            {
+                "name": "Jacob Batalon",
+                "image": "https://image.tmdb.org/t/p/w185/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
+            },
+            {
+                "name": "Jon Bernthal",
+                "image": "https://image.tmdb.org/t/p/w185/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg"
+            }
+        ],
+        "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+        "runtime": "N/A",
+        "vote_count": 0
+    },
+    "Moana": {
+        "title": "Moana",
+        "rating": 6.9,
+        "release_date": "2026-07-08",
+        "poster": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+        "genres": [
+            "Family",
+            "Fantasy",
+            "Comedy"
+        ],
+        "cast": [
+            {
+                "name": "Catherine Lagaʻaia",
+                "image": "https://image.tmdb.org/t/p/w185/2KRIRDwy1CtY7Bge3aqVZrORelc.jpg"
+            },
+            {
+                "name": "Dwayne Johnson",
+                "image": "https://image.tmdb.org/t/p/w185/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg"
+            },
+            {
+                "name": "Rena Owen",
+                "image": "https://image.tmdb.org/t/p/w185/648ZdDBmlx6OFDFRmgAbh6q5LBo.jpg"
+            },
+            {
+                "name": "John Tui",
+                "image": "https://image.tmdb.org/t/p/w185/2jIc9M5kl2GmK8fZtbtUr2s1jkS.jpg"
+            },
+            {
+                "name": "Frankie Adams",
+                "image": "https://image.tmdb.org/t/p/w185/aAUHUSf0lh3OBRoaiCRL9ep8lfL.jpg"
+            }
+        ],
+        "overview": "Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with the infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+        "runtime": "N/A",
+        "vote_count": 4
+    },
+    "The Avengers": {
+        "title": "The Avengers",
+        "rating": 8.051,
+        "release_date": "2012-04-25",
+        "poster": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+        "genres": [
+            "Sci-Fi",
+            "Action",
+            "Adventure"
+        ],
+        "cast": [
+            {
+                "name": "Robert Downey Jr.",
+                "image": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+            },
+            {
+                "name": "Chris Evans",
+                "image": "https://image.tmdb.org/t/p/w185/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+            },
+            {
+                "name": "Mark Ruffalo",
+                "image": "https://image.tmdb.org/t/p/w185/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+            },
+            {
+                "name": "Chris Hemsworth",
+                "image": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+            },
+            {
+                "name": "Scarlett Johansson",
+                "image": "https://image.tmdb.org/t/p/w185/druW5adKddizHNSoPbI0q7Mvn0K.jpg"
+            }
+        ],
+        "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+        "runtime": "N/A",
+        "vote_count": 38590,
+        "similarity_score": 42
+    },
+    "X-Men: First Class": {
+        "title": "X-Men: First Class 35mm Special",
+        "rating": 6.8,
+        "release_date": "2012-06-05",
+        "poster": "https://image.tmdb.org/t/p/w500/gionQv04AWnRaDMNvBF24uJMSTf.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/zXVledoXBJnYyrwdSLvnYmhgJXy.jpg",
+        "genres": [],
+        "cast": [],
+        "overview": "TV special about the making of \"X-Men: First Class\".",
+        "runtime": "N/A",
+        "vote_count": 32,
+        "similarity_score": 32
+    },
+    "The Wolverine": {
+        "title": "The Wolverine",
+        "rating": 6.435,
+        "release_date": "2013-07-21",
+        "poster": "https://image.tmdb.org/t/p/w500/t2wVAcoRlKvEIVSbiYDb8d0QqqS.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/bEAQfLTykGg232kJogBlxRYaRqU.jpg",
+        "genres": [
+            "Action",
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "cast": [
+            {
+                "name": "Hugh Jackman",
+                "image": "https://image.tmdb.org/t/p/w185/oX6CpXmnXCHLyqsa4NEed1DZAKx.jpg"
+            },
+            {
+                "name": "Hiroyuki Sanada",
+                "image": "https://image.tmdb.org/t/p/w185/SOwDxhGnRccP2lAtssQ7TxCzOe.jpg"
+            },
+            {
+                "name": "Tao Okamoto",
+                "image": "https://image.tmdb.org/t/p/w185/ztnb6OVslOSaTILOvGVpUOCY88W.jpg"
+            },
+            {
+                "name": "Rila Fukushima",
+                "image": "https://image.tmdb.org/t/p/w185/raklPPc6AZcDnNrjmJu60FHxI2F.jpg"
+            },
+            {
+                "name": "Famke Janssen",
+                "image": "https://image.tmdb.org/t/p/w185/uvZGwNsLqe9NyA57Qlt46IkO8Bd.jpg"
+            }
+        ],
+        "overview": "Wolverine faces his ultimate nemesis - and tests of his physical, emotional, and mortal limits - in a life-changing voyage to modern-day Japan.",
+        "runtime": "N/A",
+        "vote_count": 10339,
+        "similarity_score": 34
+    },
+    "Captain America: The Winter Soldier": {
+        "title": "Captain America: The Winter Soldier",
+        "rating": 7.656,
+        "release_date": "2014-03-20",
+        "poster": "https://image.tmdb.org/t/p/w500/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/1RWLMyC9KcFfcaoViMiJGSSZzzr.jpg",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "cast": [
+            {
+                "name": "Chris Evans",
+                "image": "https://image.tmdb.org/t/p/w185/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+            },
+            {
+                "name": "Samuel L. Jackson",
+                "image": "https://image.tmdb.org/t/p/w185/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+            },
+            {
+                "name": "Scarlett Johansson",
+                "image": "https://image.tmdb.org/t/p/w185/druW5adKddizHNSoPbI0q7Mvn0K.jpg"
+            },
+            {
+                "name": "Robert Redford",
+                "image": "https://image.tmdb.org/t/p/w185/tCcg8rXzYIM4ota9grCCHc881bo.jpg"
+            },
+            {
+                "name": "Sebastian Stan",
+                "image": "https://image.tmdb.org/t/p/w185/nKZgixTbHFXpkzzIpMFdLX98GYh.jpg"
+            }
+        ],
+        "overview": "After the cataclysmic events in New York with The Avengers, Steve Rogers, aka Captain America is living quietly in Washington, D.C. and trying to adjust to the modern world. But when a S.H.I.E.L.D. colleague comes under attack, Steve becomes embroiled in a web of intrigue that threatens to put the world at risk. Joining forces with the Black Widow, Captain America struggles to expose the ever-widening conspiracy while fighting off professional assassins sent to silence him at every turn. When the full scope of the villainous plot is revealed, Captain America and the Black Widow enlist the help of a new ally, the Falcon. However, they soon find themselves up against an unexpected and formidable enemy—the Winter Soldier.",
+        "runtime": "N/A",
+        "vote_count": 20088,
+        "similarity_score": 44
+    }
+}

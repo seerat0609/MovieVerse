@@ -1,0 +1,67 @@
+.watchlist-modal {
+  background: #081021;
+
+  width: 90%;
+  max-width: 1000px;
+
+  max-height: 80vh;
+
+  overflow-y: auto;
+
+  border-radius: 20px;
+
+  padding: 30px;
+
+  position: relative;
+}
+
+.watchlist-grid {
+  display: flex;
+
+  flex-wrap: wrap;
+
+  gap: 20px;
+
+  margin-top: 25px;
+}
+
+.watchlist-card {
+  width: 180px;
+
+  background: rgba(
+    255,
+    255,
+    255,
+    0.05
+  );
+
+  border-radius: 15px;
+
+  overflow: hidden;
+
+  text-align: center;
+}
+
+.watchlist-card img {
+  width: 100%;
+
+  height: 250px;
+
+  object-fit: cover;
+}
+
+.remove-btn {
+  background: crimson;
+
+  color: white;
+
+  border: none;
+
+  padding: 8px 14px;
+
+  border-radius: 8px;
+
+  margin-bottom: 12px;
+
+  cursor: pointer;
+}
