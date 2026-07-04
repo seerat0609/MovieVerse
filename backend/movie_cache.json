@@ -1210,7 +1210,28 @@
             "Family",
             "Fantasy"
         ],
-        "cast": [],
+        "cast": [
+            {
+                "name": "Brendan Fraser",
+                "image": "https://image.tmdb.org/t/p/w185/tFj5PaWWQbb8rHBBhu1EHklznph.jpg"
+            },
+            {
+                "name": "Sienna Guillory",
+                "image": "https://image.tmdb.org/t/p/w185/nO190bAQxXvZH3DG9rZto0eocLe.jpg"
+            },
+            {
+                "name": "Andy Serkis",
+                "image": "https://image.tmdb.org/t/p/w185/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
+            },
+            {
+                "name": "Eliza Bennett",
+                "image": "https://image.tmdb.org/t/p/w185/szP8byrtGBXC3qFDrIJHXUI1ALF.jpg"
+            },
+            {
+                "name": "Paul Bettany",
+                "image": "https://image.tmdb.org/t/p/w185/vcAVrAOZrpqmi37qjFdztRAv1u9.jpg"
+            }
+        ],
         "overview": "The adventures of a father and his young daughter, in their search for a long lost book that will help reunite a missing, close relative.",
         "runtime": "N/A",
         "vote_count": 2274,
@@ -2715,7 +2736,7 @@
         "overview": "Martin Bonner has just moved to Nevada from the East Coast, leaving behind his two adult children and a life he spent more than two decades building. He's there working a new job as the volunteer coordinator for a non-profit organization that helps prisoners make the transition from incarceration to freedom. It's Martin's first job in two years and he's recently declared bankruptcy. At the same time, Travis Holloway, a prisoner in the program, is being released after serving twelve years. Sent back into the world with nothing, Travis also finds life in Reno difficult to adjust to, despite the help from his program sponsor, Steve Helms. The stories of Martin and Travis slowly converge, as the two men meet and find that they have much in common, not the least of which is an unspoken need for encouragement and support.",
         "runtime": "N/A",
         "vote_count": 18,
-        "similarity_score": 30
+        "similarity_score": 19
     },
     "The Claim": {
         "title": "The Claim",
@@ -2928,7 +2949,8 @@
         "cast": [],
         "overview": "As an asteroid nears Earth, a man finds himself alone after his wife leaves in a panic. He decides to take a road trip to reunite with his high school sweetheart. Accompanying him is a neighbor who inadvertently puts a wrench in his plan.",
         "runtime": "N/A",
-        "vote_count": 2260
+        "vote_count": 2260,
+        "similarity_score": 27
     },
     "Cyrus": {
         "title": "Cyrus",
@@ -3294,11 +3316,31 @@
             "Family",
             "Fantasy"
         ],
-        "cast": [],
+        "cast": [
+            {
+                "name": "Hal Scardino",
+                "image": "https://image.tmdb.org/t/p/w185/q8TX9vJfLSzYDztSIDmz1ao002t.jpg"
+            },
+            {
+                "name": "Litefoot",
+                "image": "https://image.tmdb.org/t/p/w185/lZirENb3WkQarkkgKDs0qyjOltH.jpg"
+            },
+            {
+                "name": "Lindsay Crouse",
+                "image": "https://image.tmdb.org/t/p/w185/p9xfNphbZNvSfqxGA4za87VKuQI.jpg"
+            },
+            {
+                "name": "Richard Jenkins",
+                "image": "https://image.tmdb.org/t/p/w185/muT3RZG9hiKaKojD751RcQ5tGEy.jpg"
+            },
+            {
+                "name": "Rishi Bhat",
+                "image": null
+            }
+        ],
         "overview": "A nine-year-old boy gets a plastic Indian and a cupboard for his birthday and finds himself involved in adventure when the Indian comes to life and befriends him.",
         "runtime": "N/A",
-        "vote_count": 682,
-        "similarity_score": 22
+        "vote_count": 682
     },
     "Life of Pi": {
         "title": "Life of Pi",
@@ -4021,5 +4063,353 @@
         "runtime": "N/A",
         "vote_count": 20088,
         "similarity_score": 44
+    },
+    "The Odyssey": {
+        "title": "The Odyssey",
+        "rating": 0.0,
+        "release_date": "2026-07-15",
+        "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/m3Pom6pbD51bBv3syz8NMHda3fz.jpg",
+        "genres": [
+            "Adventure",
+            "Action",
+            "Fantasy"
+        ],
+        "cast": [
+            {
+                "name": "Matt Damon",
+                "image": "https://image.tmdb.org/t/p/w185/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+            },
+            {
+                "name": "Tom Holland",
+                "image": "https://image.tmdb.org/t/p/w185/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg"
+            },
+            {
+                "name": "Anne Hathaway",
+                "image": "https://image.tmdb.org/t/p/w185/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg"
+            },
+            {
+                "name": "Robert Pattinson",
+                "image": "https://image.tmdb.org/t/p/w185/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+            },
+            {
+                "name": "Lupita Nyong'o",
+                "image": "https://image.tmdb.org/t/p/w185/mJMpsADPpt0bmXEzs3ywrUiCkpD.jpg"
+            }
+        ],
+        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+        "runtime": "N/A",
+        "vote_count": 0
+    },
+    "Citizen Vigilante": {
+        "title": "Citizen Vigilante",
+        "rating": 6.6,
+        "release_date": "2026-06-19",
+        "poster": "https://image.tmdb.org/t/p/w500/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/qJ2KSHJhlFvASBMLbGuP7OFMaFg.jpg",
+        "genres": [
+            "Thriller",
+            "Action",
+            "Crime"
+        ],
+        "cast": [
+            {
+                "name": "Armie Hammer",
+                "image": "https://image.tmdb.org/t/p/w185/4Z5nLW2biRjqstDMKqSaeQYAesK.jpg"
+            },
+            {
+                "name": "Costas Mandylor",
+                "image": "https://image.tmdb.org/t/p/w185/yPkQdbhCj2EJM0cjDtkuJTlFp86.jpg"
+            },
+            {
+                "name": "Désirée Giorgetti",
+                "image": "https://image.tmdb.org/t/p/w185/vDoGIUjB4472uMRtif1cQPGtMNU.jpg"
+            },
+            {
+                "name": "Steffen Mennekes",
+                "image": "https://image.tmdb.org/t/p/w185/sQqg3K8SbBCAUcud5IkSrSEEz5c.jpg"
+            },
+            {
+                "name": "Neb Chupin",
+                "image": "https://image.tmdb.org/t/p/w185/aK6MI2o2x3jeoVJM5Hj8Z5re4be.jpg"
+            }
+        ],
+        "overview": "A man takes justice into his own hands, hunting down criminals. His vigilante crusade makes him a social media star but puts him at odds with the local police chief.",
+        "runtime": "N/A",
+        "vote_count": 172
+    },
+    "Fight Valley": {
+        "title": "Fight Valley",
+        "rating": 3.3,
+        "release_date": "2016-07-22",
+        "poster": "https://image.tmdb.org/t/p/w500/jIPWkzF9srlU8eZTldLM6JYZwkO.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/tofwMq4pvdjL71UrXbPqmxTAQ62.jpg",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "cast": [
+            {
+                "name": "Susie Celek",
+                "image": "https://image.tmdb.org/t/p/w185/2FyzYaJUmV15JwzqUqaEyu2305A.jpg"
+            },
+            {
+                "name": "Erin O'Brien",
+                "image": "https://image.tmdb.org/t/p/w185/twHKHukEdTgyE8Wvmy2Yecjx3lQ.jpg"
+            },
+            {
+                "name": "Miesha Tate",
+                "image": "https://image.tmdb.org/t/p/w185/a1vo2vYn3y7TncZLCNUR5GPD3xY.jpg"
+            },
+            {
+                "name": "Chelsea Durkalec",
+                "image": "https://image.tmdb.org/t/p/w185/mCCiGRtiNsHdipso0iwuKTZ7Fjf.jpg"
+            },
+            {
+                "name": "Cabrina Collesides",
+                "image": "https://image.tmdb.org/t/p/w185/rcPr6qXiiYOB1lh2IxTaz5VZyiN.jpg"
+            }
+        ],
+        "overview": "Twenty-two year old Tori Coro gets involved in an underground fighting ring in a rough section of Camden, NJ. When her bruised and beaten body is found abandoned in the woods, rumors begin to swirl that Tori died in Fight Valley, an unofficial neighborhood where fighters go to make money. Tori's sister Windsor moves to town to start her own investigation. Jab's, a respected fighter turned gym owner, agrees to train Windsor as she prepares to come face to face with Tori's killer and fight for justice.",
+        "runtime": "N/A",
+        "vote_count": 30,
+        "similarity_score": 20
+    },
+    "The Talented Mr. Ripley": {
+        "title": "The Talented Mr. Ripley",
+        "rating": 7.197,
+        "release_date": "1999-12-25",
+        "poster": "https://image.tmdb.org/t/p/w500/6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/nGVe984XESYhn5V5zspqQexPekA.jpg",
+        "genres": [
+            "Thriller",
+            "Crime",
+            "Drama"
+        ],
+        "cast": [
+            {
+                "name": "Matt Damon",
+                "image": "https://image.tmdb.org/t/p/w185/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+            },
+            {
+                "name": "Gwyneth Paltrow",
+                "image": "https://image.tmdb.org/t/p/w185/r4wbWWEEjmtRFZ0GU10XbLTgp47.jpg"
+            },
+            {
+                "name": "Jude Law",
+                "image": "https://image.tmdb.org/t/p/w185/1rTmD8B1YAE1MrrBJs4krIiIvNM.jpg"
+            },
+            {
+                "name": "Cate Blanchett",
+                "image": "https://image.tmdb.org/t/p/w185/vUuEHiAR0eD3XEJhg2DWIjymUAA.jpg"
+            },
+            {
+                "name": "Philip Seymour Hoffman",
+                "image": "https://image.tmdb.org/t/p/w185/50rqDkmvXwjwVhFH7q6ph2Rkw7S.jpg"
+            }
+        ],
+        "overview": "Tom Ripley is a calculating young man who believes it's better to be a fake somebody than a real nobody. Opportunity knocks in the form of a wealthy U.S. shipbuilder who hires Tom to travel to Italy to bring back his playboy son, Dickie. Ripley worms his way into the idyllic lives of Dickie and his girlfriend, plunging into a daring scheme of duplicity, lies and murder.",
+        "runtime": "N/A",
+        "vote_count": 4169,
+        "similarity_score": 18
+    },
+    "A History of Violence": {
+        "title": "A History of Violence",
+        "rating": 7.166,
+        "release_date": "2005-09-23",
+        "poster": "https://image.tmdb.org/t/p/w500/3qnO72NHmUgs9JZXAmu4aId9QDl.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/iZHJsUYxhjI6kbooHoQRWXv6F8E.jpg",
+        "genres": [
+            "Drama",
+            "Thriller",
+            "Crime"
+        ],
+        "cast": [
+            {
+                "name": "Viggo Mortensen",
+                "image": "https://image.tmdb.org/t/p/w185/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
+            },
+            {
+                "name": "Maria Bello",
+                "image": "https://image.tmdb.org/t/p/w185/it1f5mxiGIWO0DzTBfwtLTjphZb.jpg"
+            },
+            {
+                "name": "Ed Harris",
+                "image": "https://image.tmdb.org/t/p/w185/kUbUA70WPiosPT4kBJMWtGk0ASd.jpg"
+            },
+            {
+                "name": "William Hurt",
+                "image": "https://image.tmdb.org/t/p/w185/j3mjmuHLBW4XQSw53C8Sh0Lh3ZQ.jpg"
+            },
+            {
+                "name": "Ashton Holmes",
+                "image": "https://image.tmdb.org/t/p/w185/lJlIrsFSPilYbd4jIVa2hiCphP7.jpg"
+            }
+        ],
+        "overview": "An average family is thrust into the spotlight after the father commits a seemingly self-defense murder at his diner.",
+        "runtime": "N/A",
+        "vote_count": 3755,
+        "similarity_score": 17
+    },
+    "The Curious Case of Benjamin Button": {
+        "title": "The Curious Case of Benjamin Button",
+        "rating": 7.6,
+        "release_date": "2008-12-25",
+        "poster": "https://image.tmdb.org/t/p/w500/26wEWZYt6yJkwRVkjcbwJEFh9IS.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/2fswjyrY3GEzeoVn6mF8pNeNcgf.jpg",
+        "genres": [
+            "Drama",
+            "Fantasy"
+        ],
+        "cast": [
+            {
+                "name": "Brad Pitt",
+                "image": "https://image.tmdb.org/t/p/w185/m09Y1YfPPeNYYUSHnnVqahkrC1o.jpg"
+            },
+            {
+                "name": "Cate Blanchett",
+                "image": "https://image.tmdb.org/t/p/w185/vUuEHiAR0eD3XEJhg2DWIjymUAA.jpg"
+            },
+            {
+                "name": "Taraji P. Henson",
+                "image": "https://image.tmdb.org/t/p/w185/jUU2X9mDwJaAniEmJOfvImBS9qb.jpg"
+            },
+            {
+                "name": "Julia Ormond",
+                "image": "https://image.tmdb.org/t/p/w185/u7Oz6nHfMSlXuT34K7Ffp4f2qgP.jpg"
+            },
+            {
+                "name": "Jason Flemyng",
+                "image": "https://image.tmdb.org/t/p/w185/nYl0180ACnLzVlGbaAfuPtdGr9K.jpg"
+            }
+        ],
+        "overview": "Born under unusual circumstances, Benjamin Button springs into being as an elderly man in a New Orleans nursing home and ages in reverse. Twelve years after his birth, he meets Daisy, a child who flits in and out of his life as she grows up to be a dancer. Though he has all sorts of unusual adventures over the course of his life, it is his relationship with Daisy, and the hope that they will come together at the right time, that drives Benjamin forward.",
+        "runtime": "N/A",
+        "vote_count": 13789,
+        "similarity_score": 16
+    },
+    "Boys Don't Cry": {
+        "title": "Boys Don't Cry",
+        "rating": 7.416,
+        "release_date": "1999-09-02",
+        "poster": "https://image.tmdb.org/t/p/w500/eB505ycEhFVfMwGglIzXNUyKAIs.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/yV1s91RyHJIMIJ7KeyHsWJ0ayUv.jpg",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "cast": [],
+        "overview": "A young transgender man explores his gender identity and searches for love in rural Nebraska.",
+        "runtime": "N/A",
+        "vote_count": 1471,
+        "similarity_score": 16
+    },
+    "The Specials": {
+        "title": "The Specials",
+        "rating": 5.261,
+        "release_date": "2000-09-22",
+        "poster": "https://image.tmdb.org/t/p/w500/kCoifvSC6tUa7Ia4YClf4npqjQp.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/ifXKFWQWKO7B3Mz3L0Qn3kEVcF2.jpg",
+        "genres": [
+            "Comedy",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "cast": [
+            {
+                "name": "Rob Lowe",
+                "image": "https://image.tmdb.org/t/p/w185/uY0u865QqHqT0YBtwdBXFfVI6Hr.jpg"
+            },
+            {
+                "name": "Jamie Kennedy",
+                "image": "https://image.tmdb.org/t/p/w185/ipfv0IU3VYGOz5OBmi9WJi5autF.jpg"
+            },
+            {
+                "name": "Thomas Haden Church",
+                "image": "https://image.tmdb.org/t/p/w185/74NK9HCYvNafMggSp1PAK5Nwkpe.jpg"
+            },
+            {
+                "name": "Jordan Ladd",
+                "image": "https://image.tmdb.org/t/p/w185/eCyfD0YJ2K1VvPAL3YY2RF04fyv.jpg"
+            },
+            {
+                "name": "Mike Schwartz",
+                "image": "https://image.tmdb.org/t/p/w185/91JdROqsqiH8tN5ipAdo69ge4xW.jpg"
+            }
+        ],
+        "overview": "America's seventh best superhero team, the Specials, are a group of geeks and oddballs. Lifelong fan Nightbird joins the group just in time for the group to get a new line of action figures. But the members' extreme personalities and personal issues threaten to rip the group apart.",
+        "runtime": "N/A",
+        "vote_count": 46,
+        "similarity_score": 15
+    },
+    "Limbo": {
+        "title": "Limbo",
+        "rating": 7.222,
+        "release_date": "2021-11-18",
+        "poster": "https://image.tmdb.org/t/p/w500/7Hh2w1ei26DTJ3JWmW8qcGQUI1n.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/cPq0qrpFFbhYPGXBuVGH0DFk9sb.jpg",
+        "genres": [
+            "Thriller",
+            "Crime",
+            "Drama"
+        ],
+        "cast": [
+            {
+                "name": "Gordon Lam Ka-Tung",
+                "image": "https://image.tmdb.org/t/p/w185/1IbIMJ4vfUgzlkiJcufNCyMWqSh.jpg"
+            },
+            {
+                "name": "Liu Yase",
+                "image": "https://image.tmdb.org/t/p/w185/mwL5rRcFrq5L4OlLJEbdEx6UCdy.jpg"
+            },
+            {
+                "name": "Mason Lee",
+                "image": "https://image.tmdb.org/t/p/w185/zVJfscd1rBPCXOMnsqTmlohCo8i.jpg"
+            },
+            {
+                "name": "Hiroyuki Ikeuchi",
+                "image": "https://image.tmdb.org/t/p/w185/m2uHh24jBPHlRO8cc4gyCCghT5c.jpg"
+            },
+            {
+                "name": "Sammy Sum Chun-Hin",
+                "image": "https://image.tmdb.org/t/p/w185/14JvAGteXhwqciX0uNAwdGaC20K.jpg"
+            }
+        ],
+        "overview": "Veteran detective Cham works with rookie cop Will to hunt down the city's serial killer. The investigation leads them to a lair littered with dismembered female limbs, and an ex-con who killed Cham's wife and child years ago...",
+        "runtime": "N/A",
+        "vote_count": 180,
+        "similarity_score": 15
+    },
+    "Slither": {
+        "title": "Slither",
+        "rating": 6.546,
+        "release_date": "2006-03-31",
+        "poster": "https://image.tmdb.org/t/p/w500/zNlJvCY3Pz7SE09Lf4G7uPs5XFZ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/kUpD6EnpnQBi3mjYxmiM4xvuh8g.jpg",
+        "genres": [
+            "Horror",
+            "Sci-Fi",
+            "Comedy"
+        ],
+        "cast": [],
+        "overview": "A small town is taken over by an alien plague, turning residents into zombies and all forms of mutant monsters.",
+        "runtime": "N/A",
+        "vote_count": 1744,
+        "similarity_score": 15
+    },
+    "Paint Your Wagon": {
+        "title": "Paint Your Wagon",
+        "rating": 6.3,
+        "release_date": "1969-10-15",
+        "poster": "https://image.tmdb.org/t/p/w500/fwnYGuba3ZSM2bXwBZZs4DqqKTl.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/fhRurTei4K2T6dNeK3YxbGHuqmc.jpg",
+        "genres": [
+            "Comedy"
+        ],
+        "cast": [],
+        "overview": "A Michigan farmer and a prospector form a partnership in the California gold country. Their adventures include buying and sharing a wife, hijacking a stage, kidnapping six prostitutes, and turning their mining camp into a boom town. Along the way there is plenty of drinking, gambling, and singing. They even find time to do some creative gold mining.",
+        "runtime": "N/A",
+        "vote_count": 277,
+        "similarity_score": 16
     }
 }

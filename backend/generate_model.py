@@ -1,6 +1,7 @@
 import pandas as pd
 import ast
 import pickle
+import numpy as np
 
 from nltk.stem.porter import PorterStemmer
 from sklearn.feature_extraction.text import CountVectorizer
@@ -8,13 +9,19 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 print("Loading datasets...")
 
-movies = pd.read_csv("datasets/tmdb_5000_movies.csv")
-credits = pd.read_csv("datasets/tmdb_5000_credits.csv")
+movies = pd.read_csv(
+    "datasets/tmdb_5000_movies.csv"
+)
 
-# Merge datasets
-movies = movies.merge(credits, on="title")
+credits = pd.read_csv(
+    "datasets/tmdb_5000_credits.csv"
+)
 
-# Keep useful columns
+movies = movies.merge(
+    credits,
+    on="title"
+)
+
 df = movies[
     [
         "movie_id",
@@ -29,25 +36,40 @@ df = movies[
     ]
 ]
 
-# Fill missing overviews
-df["overview"] = df["overview"].fillna("")
+df["overview"] = (
+    df["overview"]
+    .fillna("")
+)
 
 
 def fetch_genres(obj):
+
     names = []
+
     for item in ast.literal_eval(obj):
-        names.append(item["name"])
+
+        names.append(
+            item["name"]
+        )
+
     return names
 
 
 def fetch_keywords(obj):
+
     names = []
+
     for item in ast.literal_eval(obj):
-        names.append(item["name"])
+
+        names.append(
+            item["name"]
+        )
+
     return names
 
 
 def fetch_cast(obj):
+
     names = []
 
     counter = 0
@@ -55,9 +77,15 @@ def fetch_cast(obj):
     for item in ast.literal_eval(obj):
 
         if counter < 3:
-            names.append(item["name"])
+
+            names.append(
+                item["name"]
+            )
+
             counter += 1
+
         else:
+
             break
 
     return names
@@ -69,20 +97,46 @@ def fetch_director(obj):
 
     for item in ast.literal_eval(obj):
 
-        if item["job"] == "Director":
-            names.append(item["name"])
+        if (
+            item["job"]
+            == "Director"
+        ):
+
+            names.append(
+                item["name"]
+            )
 
     return names
 
 
 print("Cleaning data...")
 
-df["genres"] = df["genres"].apply(fetch_genres)
-df["keywords"] = df["keywords"].apply(fetch_keywords)
-df["cast"] = df["cast"].apply(fetch_cast)
-df["crew"] = df["crew"].apply(fetch_director)
+df["genres"] = (
+    df["genres"]
+    .apply(fetch_genres)
+)
 
-df["overview"] = df["overview"].apply(lambda x: x.split())
+df["keywords"] = (
+    df["keywords"]
+    .apply(fetch_keywords)
+)
+
+df["cast"] = (
+    df["cast"]
+    .apply(fetch_cast)
+)
+
+df["crew"] = (
+    df["crew"]
+    .apply(fetch_director)
+)
+
+df["overview"] = (
+    df["overview"]
+    .apply(
+        lambda x: x.split()
+    )
+)
 
 df["tags"] = (
     df["overview"]
@@ -92,7 +146,13 @@ df["tags"] = (
     + df["crew"]
 )
 
-df["tags"] = df["tags"].apply(lambda x: " ".join(x))
+df["tags"] = (
+    df["tags"]
+    .apply(
+        lambda x:
+        " ".join(x)
+    )
+)
 
 ps = PorterStemmer()
 
@@ -102,25 +162,47 @@ def stem_text(text):
     words = []
 
     for word in text.split():
-        words.append(ps.stem(word.lower()))
+
+        words.append(
+            ps.stem(
+                word.lower()
+            )
+        )
 
     return " ".join(words)
 
 
-df["tags"] = df["tags"].apply(stem_text)
+df["tags"] = (
+    df["tags"]
+    .apply(stem_text)
+)
 
 print("Creating vectors...")
 
 cv = CountVectorizer(
-    max_features=5000,
+    max_features=2500,
     stop_words="english"
 )
 
-vectors = cv.fit_transform(df["tags"]).toarray()
+vectors = cv.fit_transform(
+    df["tags"]
+).toarray()
 
-print("Calculating similarity matrix...")
+print(
+    f"Vector Shape: {vectors.shape}"
+)
 
-similarity = cosine_similarity(vectors)
+print(
+    "Calculating similarity matrix..."
+)
+
+similarity = cosine_similarity(
+    vectors
+).astype(np.float32)
+
+print(
+    f"Similarity Shape: {similarity.shape}"
+)
 
 print("Saving files...")
 
@@ -128,14 +210,24 @@ movie_dict = df.to_dict()
 
 pickle.dump(
     movie_dict,
-    open("backend/model/movie_dict.pkl", "wb")
+    open(
+        "backend/model/movie_dict.pkl",
+        "wb"
+    )
 )
 
 pickle.dump(
     similarity,
-    open("backend/model/similarity.pkl", "wb")
+    open(
+        "backend/model/similarity.pkl",
+        "wb"
+    )
 )
 
 print("SUCCESS!")
-print("movie_dict.pkl created")
-print("similarity.pkl created")
+print(
+    "movie_dict.pkl created"
+)
+print(
+    "similarity.pkl created"
+)
