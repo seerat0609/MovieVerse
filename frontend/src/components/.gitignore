@@ -4,3 +4,6 @@ venv/
 node_modules/
 movie_cache.json
 cast_cache.json
+
+
+backend/model/similarity.pkl
